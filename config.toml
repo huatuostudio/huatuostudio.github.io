@@ -3,9 +3,7 @@ title = 'Hua Tuo Studio'
 
 # Change the default theme to be use when building the site with Hugo
 theme = "LoveIt"
-# themes directory
-# 主题目录
-themesDir = "../.."
+
 
 # determines default content language ["en", "zh-cn", "fr", "pl", ...]
 # 设置默认的语言 ["en", "zh-cn", "fr", "pl", ...]
