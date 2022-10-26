@@ -204,7 +204,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       # URL of avatar shown in home page
       avatarURL = "/images/logo.jpg"
       # LoveIt CHANGED | 0.2.7 title shown in home page (HTML format is supported)
-      title = ""
+      title = "Hua Tuo Studio"
       # subtitle shown in home page (HTML format is supported)
       subtitle = "见自己，见天地，见众生！"
       # whether to use typeit animation for subtitle
