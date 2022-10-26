@@ -1,7 +1,7 @@
 baseURL = 'https://huatuostudio.github.io'
 
 # website title
-title = 'Hua Tuo Studio 华拓工作室'
+title = 'Hua Tuo Studio'
 
 # Change the default theme to be use when building the site with Hugo
 theme = "LoveIt"
@@ -113,9 +113,9 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       # title name
       name = "Hua Tuo Studio"
       # you can add extra information before the name (HTML format is supported), such as icons
-      pre = ""
+      pre = "华拓工作室1"
       # you can add extra information after the name (HTML format is supported), such as icons
-      post = ""
+      post = "华拓工作室2"
       # LoveIt NEW | 0.2.5 whether to use typeit animation for title name
       typeit = false
 
