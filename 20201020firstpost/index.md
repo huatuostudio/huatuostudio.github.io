@@ -1,6 +1,8 @@
 # Welcome - My First Post
 
 
-testing hugo
+Testing hugo
 
-add some more text testing 404
+Add some more text 
+
+Testing 404
