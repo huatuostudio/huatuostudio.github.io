@@ -1,7 +1,7 @@
 baseURL = 'https://huatuostudio.github.io'
 
 # website title
-title = 'Hua Tuo Studio [华拓工作室]'
+title = 'Hua Tuo Studio 华拓工作室'
 
 # Change the default theme to be use when building the site with Hugo
 theme = "LoveIt"
