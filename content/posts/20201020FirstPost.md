@@ -1,10 +1,12 @@
 ---
 title: "Welcome - My First Post"
-date: 2022-10-20T00:00:09Z
+date: 2021-10-20T00:00:09Z
 draft: false
-categories: ["Travel"]
+categories: ["Travel Australia"]
 ---
 
-testing hugo
+Testing hugo
 
-add some more text testing 404
+Add some more text 
+
+Testing 404
