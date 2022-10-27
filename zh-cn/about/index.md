@@ -1,4 +1,7 @@
-# About Hua Tuo Studio
+# 有关华拓工作室
 
+# 2022-10-26
 
-Currently using this space as my blog - travel diary...
+现在，我会利用这个平台记录我的旅游日记和随想。
+
+心理学的理论是人总是会不自主的选择记住美好的东西和事情。那就让我们抓住那一份美好吧！

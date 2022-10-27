@@ -1,4 +1,6 @@
 # About Hua Tuo Studio
 
 
-Currently using this space as my blog - travel diary...
+# 2022-10-21
+
+Currently, I'm using this space as my travel diary...
