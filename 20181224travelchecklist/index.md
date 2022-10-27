@@ -36,6 +36,7 @@ These vary depending on your country of destination. Visit [Australian Customs w
 Sign up for the latest travel warnings at [smartraveller.gov.au](https://www.smartraveller.gov.au). The Department of Foreign Affairs and trade recommend you register your travel plans and contact online with Smart Traveller (Australia) before you travel.
 
 ## Travel insurance
+
 Carry the following information with you when travel:
 
 Provider:
