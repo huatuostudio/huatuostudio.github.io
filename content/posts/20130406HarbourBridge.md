@@ -1,0 +1,17 @@
+---
+title: "Sydney Harbour Bridge Climb"
+date: 2013-04-06T00:00:09Z
+draft: false
+categories: ["Travel Australia"]
+tags: ["Sydney", "short trip"]
+---
+
+![Sydney Bridge Climb Trip](https://lh3.googleusercontent.com/dTPV7bDRQYFLLHGqiCMyWyAZsqE2s6ofuvuRC1Fh7AW1eaFEDzXhoxhXsUULeu0Y8tDGNqloriQQ66DIZsdg-Dp7SLuQP85aJw-EIXsOaZ0-ZKCqV9pDkBq7wpXWmu_phTWbT7cGVEqpnmSN0fws6MHT69LgceRva2Zxev9ioVxyXFFw0NpereJLOuAFCh9OwJncNjbhuZ5mb9EK3QJdxYxvV3fi57An7w7ItiLMN7mofRjQW8jALHHeVauFDr1Xpu8CCNN0cGE4UJOYujKmyDGLk99WPIFruEozUevAp2NGOSvHESN81AmGYuXScptYC_MXuBf5PRyCZyy1C7_Cu6qaPM7rN2oG7UInNE4IpNgP_UBn9WsUVJNkpWeld1HuPaEjVeOshsuP3eQROItAs3uwq9SfzF6JIujSIs99alH8lDzlaTc0LTHXRSuqXHnrHYILdbNBKT1UTraOmzVH7bofQyu04C3MUZVpmleQf--sO2bBHiW-5oJBTLyjgYkv2CCW5HVM4nCDGGPRz1Bkm1F_VWygksy1URAwhjmF_4m6MC8wCNfk5vQUyq_zHUwo1KB8sWSj5p644QC9csuw8wRLfjsIIZ02Cehg3ySQ373XggV_hUA79lHPFAXDvTOKWLawjr4cta4VjCp76xouX4EmE7bOPBiE=w434-h423-no)
+
+John has given me ticket for a full 3 hours [Sydney Harbour Bridge Climb](http://www.bridgeclimb.com/) for my birthday this year (thank you John!! 💕 ). I have to say that I always thought the climb was an overpriced tourist thing so I have never done it. Nevertheless, I was excited to wake up at 3am (I've hardly slept!) to get ready for the [climb](http://www.bridgeclimb.com/).
+
+We were very lucky that we were in a 5 people only group, comparing with the usual 10-15 people groups. Everyone got to know each other quickly and we were able to complete the pre-training ahead of schedule. Because everyone was chained to the side of the bridge and had to walk in a line the whole time, a big group would waste a lot of time on waiting for slow walker etc. With only 5 people, we were able to chat with each other or stop whenever we wanted for photos etc. The guide was a cute young guy. 😂 He told us lots stories and history about the bridge. For example, did you know that a diamond ring was lost during a proposal on top of the bridge? Every since then, if one plan for a proposal on top of the bridge, one need to chain the ring on the wrist. If the girl says yes, then the ring will be transferred to her finger without leaving the chain. 😅 FYI, the lost diamond ring was not recovered so look carefully when you walk on the bridge. haha…
+
+The view on top of the bridge was amazing. We could see the rain on the left hand side of the sky yet on the other side, the sun rose behind the clouds. We were given “survival packs” to be chained on ourselves. I was so glad to find a jumper in it because it was freezing on the top of the bridge.
+
+We had such a good time that I’m totally converted. If you plan to visit [Sydney](http://australia.gov.au/about-australia/australian-story/sydney-harbour-bridge), book for a [Sydney Harbour Bridge Climb](http://www.bridgeclimb.com/) and ask the guide to tell you the story about how they [made it happen for Oprah in 2010](http://www.smh.com.au/entertainment/tv-and-radio/oprah-climbs-the-sydney-harbour-bridge-20101212-18tr9.html).
