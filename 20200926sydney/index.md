@@ -5,5 +5,6 @@
 
 ![img1](https://www.instagram.com/p/CjM2VeOBZd3/)
 
+{{< instagram CjM2VeOBZd3 >}}
 
 https://www.instagram.com/p/CjM2VeOBZd3/?igshid=YmMyMTA2M2Y=
