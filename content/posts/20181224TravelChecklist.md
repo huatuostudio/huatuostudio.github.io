@@ -48,7 +48,7 @@ Provider:
 
 Policy number:
 
-# Emergency contacts
+## Emergency contacts
 Carry the following information with you when travel:
 
 <pre>The Australian Government provides 24 hour consular assistance
