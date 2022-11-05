@@ -15,7 +15,7 @@ We were very lucky that we were in a 5 people group, instead of the usual 10-15 
 
 A bigger group would waste a lot of time on waiting for slow walker etc., because everyone has to be chained to the side of the bridge and has to walk in a line the whole time. With only 5 people, we were able to chat with each other with or without of the headphones. We could yell at each other if anyone wanted to stop for a quick photo - yes, only the guide has a camera and the camera is chained to him as well. The guide was a cute young guy. 😂 He told us lots stories and history about the bridge. For example, did you know that a diamond ring was lost during a proposal on top of the bridge? Every since then, if one plan for a proposal on top of the bridge, one need to chain the ring on the wrist. If the girl says yes, then the ring will be transferred to her finger without leaving the chain. 😅 FYI, the lost diamond ring was not recovered so look carefully when you walk on the bridge. haha…
 
-The view on top of the bridge was amazing! I was in love with it. We could see the rain on the left hand side of the sky yet on the other side, the sun rose behind the clouds. I was very impressed! It was so beautiful! It was so worth the money! I'm going to tell everyone to do this! No wonder so many people have marriage proposals here! :) 
+The view on top of the bridge was amazing! I was in love with it. We could see the rain on the left hand side of the sky yet on the other side, the sun rose behind the clouds. I was very impressed! It was so beautiful! It was so worth the money! I'm going to tell everyone to do this! No wonder so many people have marriage proposals here! 😂  
 
 It was very windy on the top of the bridge. I really understood why everything has to be chained to the hand rail. We were given “survival packs” to be chained on ourselves. I was so glad to find a jumper in it because it was freezing too. 
 
@@ -28,18 +28,18 @@ Three of us (Steve & Sam), we have had such a good time that I was totally shock
 
 ![Dinner](https://lh3.googleusercontent.com/pw/AL9nZEX-LNCfAJGpTaeDXC6zV8z_2cp2oRn_zD80y8F_RMdn3JThYyVFIhPV-hnCOqdWTjfbPDXRaICq3edNTNLJoXdy-eQfBoTZsURSwj8FawtfT35LWYOss3E6NEXTWeEoOX6V5DS0SXjII1CRh7vt6SZj=w620-h521-no?authuser=0 "Dinner")
 
-## The verdict
+## The Verdict
 
 It's great, do it! If you plan to visit [Sydney](http://australia.gov.au/about-australia/australian-story/sydney-harbour-bridge), book for a [Sydney Harbour Bridge Climb](http://www.bridgeclimb.com/) and ask the guide to tell you the story about how they [made it happen for Oprah in 2010](http://www.smh.com.au/entertainment/tv-and-radio/oprah-climbs-the-sydney-harbour-bridge-20101212-18tr9.html).
-## Side notes
+## Side Notes
 - I stayed in the city because I wanted a short walk to the bridge in the early morning. I've not walked around the city of Sydney at 3am before. Relatively safe, interesting people hanging around the streets at this hour, very different from the day!
 - This 3.5 star hotel needs thicker walls and windows! I've asked for a higher level and a quiet floor as usual. I kept waken up by the noise from the street - they do travel up. The room next door kept you know what going for the whole night and from the noise, you could tell that there were a few people there! LOL I've hardly slept at all between downstairs and the next door. This is why after the climb and breakfast, even with all the sugar from the pancakes, I wanted a nap! I won't stay in this hotel again!
 
-## Food highlights
+## Food Highlights
 
 All pretty good, enjoyed them all! Photos ^^
 
 - Dinner at [The Rocks](http://www.therocks.com/)
 - Breakfast/brunch at [Pancake on the Rocks](http://www.pancakesontherocks.com.au/)
-- Sam’s chocolate challenge :)
+- Sam’s chocolate challenge 😂 
 - Drinks and dinner at [Bavarian Bier Cafe](http://www.bavarianbiercafe.com/venues/view/14/York-Street), really enjoyed it

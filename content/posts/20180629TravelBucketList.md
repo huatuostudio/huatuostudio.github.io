@@ -14,15 +14,19 @@ tags: ["checklist"]
 
 - [ ] See the spectacular Northern Lights
 
-- [ ] Discover the “temple that is a city” at Angkor Wat in Cambodia 6. Scale Japan’s highest peak, Mount Fuji
+- [ ] Discover the “temple that is a city” at Angkor Wat in Cambodia 
+
+- [ ] Scale Japan’s highest peak, Mount Fuji
 
 - [ ] Take a trip into the wilderness on an African safari
 
-- [x] Ascend the arch of Sydney Harbour Bridge
+- [x] Ascend the arch of Sydney Harbour Bridge [My story here](https://www.huatuostudio.com/20130406harbourbridge/)
 
 - [ ] Trek the Inca Trail to Machu Picchu
 
-- [ ] View the Big Apple from the top of the Empire State Building 11. Float effortlessly on the Dead Sea
+- [ ] View the Big Apple from the top of the Empire State Building 
+
+- [ ] Float effortlessly on the Dead Sea
 
 - [x] Take a walk along the Great Wall of China
 

@@ -6,7 +6,7 @@ categories: ["Travel France"]
 tags: ["Albatross Tours"]
 ---
 
-I'm joining a 10 days La Petite France trip with <a href="https://www.albatrosstours.com.au/la-petite-france" target="_blank" rel="noopener">Albatross Tours</a>. So excited!!! 😻😻😻
+I'm joining a 10 days La Petite France trip with [Albatross Tours](https://www.albatrosstours.com.au/la-petite-france). So excited!!! 😻😻😻
 
 ## Tour Overview
 
@@ -16,22 +16,33 @@ Sleep in a picturesque château in the Loire Valley, walk amongst the flowers of
 
 ### Highlights
 
-<ul>
- 	<li>Stay 3 nights on the verdant Normandy Coast in the classic seaside resort of Cabourg</li>
- 	<li>Wander through Monet’s glorious gardens in Giverny</li>
- 	<li>Explore the pretty harbourside town of Honfleur</li>
- 	<li>Sip Benedictine in Fécamp where it was invented</li>
- 	<li>Stay 2 nights in the ‘pirate town’ of St Malo</li>
- 	<li>Explore the magnificent 11th century Mont-Saint-Michel (I always wanted to visit!!)</li>
- 	<li>Enjoy time relaxing in the ‘oyster village’ of Cancale</li>
- 	<li>Visit the famous city of Tours and explore the old town</li>
- 	<li>Enjoy a relaxing evening in the pretty village of Langeais</li>
- 	<li>Enjoy the gardens and interior of the elegant Château Chenonceau</li>
- 	<li>Visit Da Vinci’s residence – Château du Clos Lucé in historical Amboise</li>
- 	<li>Visit the Royal Abbey of Fontevraud, the largest in Western Europe</li>
- 	<li>Visit the classic 16th and 18th century gardens of Château Villandry</li>
- 	<li>Enjoy a farewell dinner in your Château</li>
-</ul>
+- Stay 3 nights on the verdant Normandy Coast in the classic seaside resort of Cabourg
+
+- Wander through Monet’s glorious gardens in Giverny
+
+- Explore the pretty harbourside town of Honfleur
+
+- Sip Benedictine in Fécamp where it was invented
+
+- Stay 2 nights in the ‘pirate town’ of St Malo
+
+- Explore the magnificent 11th century Mont-Saint-Michel (I always wanted to visit!!)</li>
+
+- Enjoy time relaxing in the ‘oyster village’ of Cancale
+
+- Visit the famous city of Tours and explore the old town
+
+- Enjoy a relaxing evening in the pretty village of Langeais
+
+- Enjoy the gardens and interior of the elegant Château Chenonceau
+
+- Visit Da Vinci’s residence – Château du Clos Lucé in historical Amboise
+
+- Visit the Royal Abbey of Fontevraud, the largest in Western Europe
+
+- Visit the classic 16th and 18th century gardens of Château Villandry
+
+- Enjoy a farewell dinner in your Château
 
 ## Tour Itinerary
 
