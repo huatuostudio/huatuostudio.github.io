@@ -1,0 +1,13 @@
+---
+title: "How To Make Japanese Pickled Ginger"
+date: 2013-04-30T00:00:09Z
+draft: false
+categories: ["Misc"]
+tags: ["food"]
+---
+
+It's all over the net at the moment - ginger is the essential healthy power food! I don't put a lot of ginger in my cooking but I love to eat Japanese pickled ginger from time to time. This is a recipe I've been using. The result was great, even mum gave it a thumbs up. Here is the VERY simple recipe on how to make Janpanese pickled ginger:
+
+![Japanese Pickled Ginger Recipe](https://lh3.googleusercontent.com/J6Gob2G8l0LIPByJ1QEfgh_SBIjPa8AleJzHnrB2J9jYykzY1rlUnlfq5qqUAagojMV3aWCY6aRk2NdiH5FiW6Wu8ezqpYVFDnTSitN6eD83eVmAjf_CzX2k83LAIPeYZuVwqYRIKUm1Hde8cdQZ6tE2NLKwG_j4meEEauZh5h12Zq5NqLXj9tP6_atwFxdzk6bqWqSF8RloA3NJ7-xxncEBqfZVlKO1CFT1U2VwgV8Ic8KPT-UrvGSXJ4m6PKvtI_UKgWEaz1U3HH925buGFR3cfWU6rznsoST8mW67gQ6ahAPIfGpPJ7kaNstRdZ-hKq0NxvqXSNBOFPUK7XxP0DemSZbP6jm-g41SnN0KAdNwW3PWQ487zlJbbTFHoCZaCGAIW_a3iZ4taHWBqq--_CXu8DiyP_aQBtED0c2NbJb67dkT4vKqSZ4OmX1hdIffR3jVDC3jqLQUVRan2oUEwtxzf8rzfuwfFIhxWhjtWvfqOSkljr6INanSZbpMJrLyu3yhNy3OJVjI3splxkCkh1ZVlagA1OSaMqGdO_GNGpRlVAjqCFIWKx2sIQgqj4hzTxBOv_H7jz2GWEZPYQoTxFN6J7PkqRzDr2R8uZGpsatN4QyT4fDktYvC9mWdwEkWPnKkuz9akjrhLmZM_Wt1foGb=w800-h496-no "Japanese Pickled Ginger Recipe")
+
+![My pickled ginger. They were fantastic!](https://lh3.googleusercontent.com/GkNmRvvGnlkBU9L3zRNaSuaSzPVFDuF-pskSFX8mpWThggKy3uC7JRDeBYxx0lOktaRQdP-lnzAENFq1u88jYmEJxyOpcImDvva-sgpJ6BcM2UIwzqIvn8uRQuAN6YoW-D-uG-KUKi4okNyr6iQgHyy9CSG_-2_npEEInjjJSVH8g4kjZgG2nC7o79XHXhBGPYMOh2BP-L1_HltyALy95t_K5CMbraUELjvw0oLp5d2ncEERLFS6n5pSeoZaO66aLgg_C1Fuw9mBj8A6H7DoFBA3WU-b4_e2_Urff02-DiWWXKCwxPKImViaEyUsaFixL595PcAjC2CxrCPLASffvvB62cpk2NCVQXBwUASkjIfCV_xNu-1dYdxsiLGCuJBQC-xRNPbISl_hHEEtxw7EMBNC6xu2UyjzpMVEDI9B5jXHdMXGc8wfWZpkWE7QJhcYscleKG2YuGOaTud80r9p_tr0VXbKRjdk6gHgTJ4r7EWQn7HkCcTlhL8nFypf2EGDB9aY8t92-cOV34v-7afCj7JYGSPluS77EtJoLcJOeoT2t12RJ7I4qjYsuZIuY8_TO7f4BQg8J6otLeOOTZjZZAXI7SIYtJ5ICUTu2KIop4MfA7fuDMu_rTIlWFiDhU1bSF6pz5lq-O7qoOPFI2YZh8LM=w600-h309-no "My pickled ginger. They were fantastic!")
