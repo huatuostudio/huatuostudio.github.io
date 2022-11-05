@@ -16,7 +16,7 @@ It was very windy on the top of the bridge. I really understood why everything h
 
 There were plenty time on top of the bridge for photos, stories, history talk and time to just enjoying the view. The walk down the bridge is on the other side of the bridge. We enjoyed the different view and marveled the structure of the bridge. It was said that it takes 3 years to maintain the bridge and even more to repaint. It was said that when one round of work completes, its most likely time for the next round to start again! It makes you appreciate the design and the engineering of the bridge even more!  
 
-Three of us (Steve & Liam), we have had such a good time that I was totally shocked that the whole climb took more than 2 hours! It was time for pancakes and coffee!
+Three of us (Steve & Sam), we have had such a good time that I was totally shocked that the whole climb took more than 2 hours! It was time for pancakes and coffee!
 
 
 ![Breakfast](https://lh3.googleusercontent.com/pw/AL9nZEXvVZfJ52OgG5F-xswZ0YBfsrNRIGc1whtcwmKE7ghKjV3UEuQXbehrsv6m4CmWqyOlBPF57bNLnLLluxdCMOz8uMYYuwlRgkQifHEHjjG2Oph5MS-Ul6iC_RF-oRjHL9L4h2UKFerk2Vi9dbvR-oDg=w620-h658-no?authuser=0 "Breakfast")
@@ -29,3 +29,13 @@ It's great, do it! If you plan to visit [Sydney](http://australia.gov.au/about-a
 ## Side notes
 - I stayed in the city because I wanted a short walk to the bridge in the early morning. I've not walked around the city of Sydney at 3am before. Relatively safe, interesting people hanging around the streets at this hour, very different from the day!
 - This 3.5 star hotel needs thicker walls and windows! I've asked for a higher level and a quiet floor as usual. I kept waken up by the noise from the street - they do travel up. The room next door kept you know what going for the whole night and from the noise, you could tell that there were a few people there! LOL I've hardly slept at all between downstairs and the next door. This is why after the climb and breakfast, even with all the sugar from the pancakes, I wanted a nap! I won't stay in this hotel again!
+
+## Food highlights
+
+All pretty good, enjoyed them all! Photos ^^
+
+- Dinner at [The Rocks](http://www.therocks.com/)
+- Breakfast/brunch at [Pancake on the Rocks](http://www.pancakesontherocks.com.au/)
+- Sam’s chocolate challenge :)
+- Drinks and dinner at [Bavarian Bier Cafe](http://www.bavarianbiercafe.com/venues/view/14/York-Street), really enjoyed it
+
