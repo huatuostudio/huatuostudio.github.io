@@ -3,7 +3,7 @@ title: "Road Trip WA"
 date: 2016-03-22T00:00:09Z
 draft: false
 categories: ["Travel Australia"]
-tags: ["road trip", "Western Australia"]
+tags: ["road trip", "Western Australia", "Perth", "trip planning"]
 ---
 
 2016 Easter. Another year and another Easter, time goes so fast. Three of us has decided to take a road trip to the Western Australia's [Southern Forest Region](http://www.southernforests.com.au). We all knew the region pretty well so the trip was roughly planned and the accommodation was booked a few days before the trip.
