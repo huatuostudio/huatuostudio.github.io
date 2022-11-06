@@ -1,0 +1,93 @@
+# Wondering around London
+
+
+The flight was so long. I kept walking around, eat (funny that I still felt hungry even though I did nothing but sitting there), nap and watch movies:
+
+- [Bones](http://www.fox.com/bones/) season 8 - seem them all before, just killing time
+
+- [Gravity](http://www.imdb.com/title/tt1454468/) - meh, its okay
+
+- [The Grand Budapest Hotel](http://www.imdb.com/title/tt2278388/) - I loved it! It's witty, smart, touching and shows the 1930s Europe
+
+- [3 days to kill](http://www.imdb.com/title/tt2172934/) - Kevin Costner looked really old
+
+I took Ben's advise and booked a car with [Swift](http://www.swiftcars.co.uk/). The driver held a name card at the arrival and we were at the hotel within 30min.
+
+## Hello London! 
+
+![Millennium Bailey's Hotel London](https://lh3.googleusercontent.com/MLHOnswiJlfUXr3OMZ-ervM-JBXbT0YeVM2qQY44q_Yc1Yv_9E-94TlP4O8vpPv7Ux3SyjI8EEP_g6_3KlccTAygZJF5BansuS8RY067rPQOqyDOR2mrMtktHeHD1hGKWmsDEwSFkZ6xX-fBZAmL4Ag2E2-0hkWHwUIvIpXm_AsuV_q_TA9vspdRtbjamwYPPkBgA36O4yfHY9cdHL_WhdZgRA7-_EYG7FPI-ObfHn2JtpJIjaP4Q9UBgl-UPmmMFidVs6AUXHlFeLZ7Wj0BxQaRxDdTBaIA6LTFiVvm6WEWH4YHO_HLWJTIoS3zejLMRgHJO4CFAwdD8T1D5jwaVk2FDC5znonBeUzQ7l81Vgnz0n3HAfI1Z5p_kKMhyXZ7bXyv0x6nDqhxAQETIJ-Xfcb7m0FxCC5UzH6NrlCIMJJQi_zEnxGHgiuKIl8CC104CO7sJsswEQ5Cw_i4ivlDJRQNvuSa8g9hzJcEqFNZk6wQpTppo853NVX41VnJxuuEyJNk-3Rjt9VI0mh0Eh5C6_hH1_44ucsyHy0zvW9C4_e85etDwr4UI2wC9nv-fECKm2LfAFN6e-sQ4NLQW3vasKS4viqhjXHE_kV9DoKqxQ14m5uMTL-Dq9wcfjYWKEhO4UKEXuox3OKIh48N3vXP1ZnxuOK1fMCX=w540-h720-no "Millennium Bailey's Hotel London")
+
+OMG, after what seemed like a life time of flying, finally, I've arrived in London! 
+
+I'm staying at the [Millennium Bailey's Hotel Kensington](http://www.millenniumhotels.co.uk/millenniumbaileys/). This is a nice hotel at a great location. The local bus, hop on and hop off bus  and the [Tube](https://www.tfl.gov.uk/modes/tube/) station are all across road. There are plenty shops ([Tesco](http://www.tesco.com/) and [Waitrose](http://www.waitrose.com/)), hotels, restaurants, bars and pubs around. I love the gardens and parks here too. It's in walking distance to [Knightsbridge](http://en.wikipedia.org/wiki/Knightsbridge), [Hyde Park](http://www.royalparks.org.uk/parks/hyde-park), [Kensington Palace](http://www.hrp.org.uk/KensingtonPalace/), [VandA Museum](http://www.vam.ac.uk/) etc.
+
+It rained only one morning since I've arrived in UK. The sun is hot during the day and the air is crisp clear at night - perfect! The day light lasts from 5am to 9pm - just right for get out and about.
+
+## Day 1
+
+- [Buckingham Palace](http://www.royal.gov.uk/theroyalresidences/buckinghampalace/buckinghampalace.aspx)
+
+- [The Mall](ttp://en.wikipedia.org/wiki/The_Mall,_London)
+
+- [The Admiralty Arch](http://en.wikipedia.org/wiki/Admiralty_Arch)
+
+- [St James's park](http://www.royalparks.org.uk/parks/st-jamess-park)
+
+- [Green park](http://www.royalparks.org.uk/parks/green-park)
+
+- [Leicester square](ttp://en.wikipedia.org/wiki/Leicester_Square)
+
+- [Neal's Yard](http://www.tripadvisor.co.uk/Attraction_Review-g186338-d522912-Reviews-Neal_s_Yard-London_England.html)
+
+- [National gallery](http://www.nationalgallery.org.uk/)
+
+- [Trafalgar Square](http://www.london.gov.uk/priorities/arts-culture/trafalgar-square)
+
+- [Covent garden](http://www.coventgardenlondonuk.com/)
+
+
+## Day 2
+
+- [London Bridge](ttp://en.wikipedia.org/wiki/London_Bridge)
+
+- [Tower Bridge](http://www.towerbridge.org.uk/)
+
+- [The Tower of London](http://en.wikipedia.org/wiki/Tower_of_London)
+
+
+## Day 3
+
+- [VandA Museum](ttp://www.vam.ac.uk/)
+
+- [Science Museum](http://www.sciencemuseum.org.uk/)
+
+- [Natural History Museum](http://www.nhm.ac.uk/)
+
+- [Kensington Gardens](http://www.royalparks.org.uk/parks/kensington-gardens)
+
+- [Kensington Palace](http://www.hrp.org.uk/KensingtonPalace/)
+
+- [Hyde Park](http://www.royalparks.org.uk/parks/hyde-park)
+
+- [Albert Memorial](http://www.royalparks.org.uk/parks/kensington-gardens/kensington-gardens-attractions/)
+
+- [Royal Albert Hall](http://www.royalalberthall.com/)
+
+
+![London art](https://lh3.googleusercontent.com/41NArJ6uW4wMEDH5Qzrpg_8gn5ZLITOa40Emn80bZxSWBugFNyPD4olt4UU-X0hDE1i7a3Sg9_P2MMmae5kFXfpo9NupbZ5R-3cbLpn1jUunQicKuIsiNbFv_T6AS05rrt7R4TpTXEzfMoAqfOHHVeqUNKJqTn09KAcJ5FsC0qCi_S-5VhLutQws7onYgZ9CM-C2KVzBAzdzJcsmtV-3WpSKjVskhIFr91gxcKBFHMWTwVKBBEcKKGcD3vYf9lSaSGsJkdrzgBwmTYrQDb0MLfo4tIMBDODn1vyHOEHFldBCYIyD63RfaUqegjCXWSTHQUI2ChFBDM7kimDEJGVMFEKEIb3Fku1W1T6ObzMfIFKl8cEo1r_dtSK2fJKkK0AbOsbpAjJqFA4jN4LcOdIHhFZ70jrIIZor7Bw4-8nAhmmX-b1sEgyf1ByWjPl3hz15JIPf1rv0dAo1R8F-krrPg1RNS6BxRBv4vBr2m_U5CJahp-_Dnp24rcxoBU4RnPUecO2TA8bN3_B8VeVxcqQkwF7N_P64enUNMThE4E7uUEo6e-SqvsQrNq2jQTxKrJhWB0OSmHrVZ4PQ5TxmB8zLCMbLFmUymYywU36nBDVvrrbXoJDZ1YPxFtuIbiDDaTNZEgBHVNCoCkiepA8XpgqROMOGyxwJKVwE=w480-h720-no "London art")
+
+## Day 4
+
+- [Westminster Abbey](http://www.westminster-abbey.org/) (amazing place)
+
+- [Horse Guards Parade](http://www.royal.gov.uk/.../changingtheguard/overview.aspx)
+
+- [10 Downing Street](https://www.gov.uk/government/organisations/prime-ministers-office-10-downing-street)
+
+- [London eye](http://www.londoneye.com/)
+
+- [Knightsbridge](http://en.wikipedia.org/wiki/Knightsbridge)
+
+I discovered [Ricola](http://www.ricola.com/en-ch) drops in London and I had it with me during the whole trip, very addictive.
+
+Five days in London was great and I really enjoyed it. However, it felt like that I was just ticking off places on a to-go list. I have seen all those places on TV etc and now I have seen them in person. Nothing had shocked me yet, the TV shows were telling the truth! :) It was getting a bit boring and I was looking forward to leave for Scotland.
