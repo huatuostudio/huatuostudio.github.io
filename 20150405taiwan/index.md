@@ -3,6 +3,8 @@
 
 ## Sleepless In Hong Kong
 
+![Hong Kong - view from the hotel](https://lh3.googleusercontent.com/pw/AL9nZEWzV3evshgVfSmvBGUQ1fcFmlUCOrPPI4YXdX7mrZxCwvIhX4Fy05g_g-ZK2Xive7sM4_F3f8Ek1fz8puQEtlZpeN3hNksndI8QIO-a1J9u9RO7j12AGHRDwTjYnP0B9PxVbueGZMkH3JNbvdeKnk7S=w2120-h1590-no?authuser=0 "Hong Kong - view from the hotel")
+
 Chinese say that 4 is not a lucky number, clearly 04/04 is worse and it was totally true - I've had a terrible run today! 😢 
 
 The flight from Sydney to Hong Kong was delayed and the connecting flight from Hong Kong to Taipei left without me. :( Apparently, it was also the last flight for the day to fly over the channel. I was stranded in Hong Kong for the night with just my passport and a wallet in my bag. Note to self, I should always put an extra pair of undies in my carry on!
