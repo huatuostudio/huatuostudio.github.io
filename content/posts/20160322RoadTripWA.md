@@ -39,7 +39,7 @@ tags: ["road trip", "Western Australia", "Perth", "trip planning"]
 
 Random, 😂 I was in Perth City when I found this:
 
-![Zero Miles](https://lh3.googleusercontent.com/E3jOEWFYb1xDn4pdaGT9pBRcnMQP4mTqHr1tP14J7uWwo2kklij8W0I5lCA34SilZzgbzhvrNL39Y2K8zJCPDv9D5M59ohlmtxE7iXM8IwBkuD43yp5INzeTOm1xQmNX8Be5-lOaCCyAPYgnF2jlTGwmggKwBl0yEPUaOTrSbC7dd1eApHkbLpMG0IYPv_HmipJhWNC4ivAYNn39vXidajofSRc6XNIbaAIab6tSRHez4hG47pV3bbt4w-L9MPjrb7_sebnBqLayTa8moNbDVzc_A8MJ7cPeO5H71sU170BsQjlR2QSrtyejOz7K1YetQnLDGZC5WpV2JbrFAwO-pZdDcpKBnwq54COmaXD9JcG8a2EeV5xwQjrxrkBV5pPiquBhk2cugOnL6bT7ywyS9aFH0wuvUUaxNSgTE_yRaKqIxwri4et8pMK-qkiuT_gApstLbMQSpPAdQsVGZB_IUAvWJ2FJSj1w-qUfwLeHtI4SBbu9yJvpvjZUxg7O3ZxE1XLx7U15oPgDLyD7P4VEMWjrwdEl5n5_BeBi0Qu57hKB-F-XZnoplZEy0ymasHh7EZsFaFr0Oo2e3GuZKfHYji9WQn_vKL0sVTE7Xm7cUJnyZPb8dLDJ6XolTQWyyjY-gPbaSog_vB5xpvhUZH0eJDla=w620-h650-no "Zero Miles")
+![Zero Miles](https://lh3.googleusercontent.com/pw/AL9nZEXR5SWe_tj3ppqLGHkK-Cp0y2llWi4OJNnfjIK6aKNgIqQQ2VOHlcwcsjjGRre-1HWWJkYInGfR8hUH8xq6jtFRq91RjBtH_zsZfW4nEuM_WCKg_288tbnWLW8mQSaKNbHTwz9VFuenpRyLkqcGPH4a=w620-h650-no?authuser=0 "Zero Miles")
 
 I thought that it was a fantastic discovery before starting a road trip! 😃 In case that you want to find it yourself, it's near the corner of the St. Georges Terrace and Barrack Street in Perth City, opposite of the Stirling Gardens.
 

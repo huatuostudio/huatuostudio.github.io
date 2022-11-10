@@ -17,6 +17,8 @@ A bigger group would waste a lot of time on waiting for slow walker etc., becaus
 
 The view on top of the bridge was amazing! I was in love with it. We could see the rain on the left hand side of the sky yet on the other side, the sun rose behind the clouds. I was very impressed! It was so beautiful! It was so worth the money! I'm going to tell everyone to do this! No wonder so many people have marriage proposals here! 😂  
 
+![the view from the top!](https://lh3.googleusercontent.com/pw/AL9nZEXdeYT8m-b4xJ2gOlevXJb7sWnmLMIHkVICmW7MrYor6vjCU67TZcw-kjpAuZj3qLgvu-2QtFPb39qC591q_MfR8vXuRbLLXZlHHEFRJCka2s3JHKGn2JdawyV7UDf9vtVQ7Sdwjpmk2Fe7tdu9ELvj=w888-h666-no?authuser=0 "the view from the top!")
+
 It was very windy on the top of the bridge. I really understood why everything has to be chained to the hand rail. We were given “survival packs” to be chained on ourselves. I was so glad to find a jumper in it because it was freezing too. 
 
 There were plenty time on top of the bridge for photos, stories, history talk and time to just enjoying the view. The walk down the bridge is on the other side of the bridge. We enjoyed the different view and marveled the structure of the bridge. It was said that it takes 3 years to maintain the bridge and even more to repaint. It was said that when one round of work completes, its most likely time for the next round to start again! It makes you appreciate the design and the engineering of the bridge even more!  

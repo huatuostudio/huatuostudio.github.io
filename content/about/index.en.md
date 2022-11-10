@@ -15,3 +15,4 @@ Please let me know via the comments area if you see a broken link or anything el
 
 [View details on Google Maps](https://www.google.com/maps/d/embed?mid=1bm8-7T-QWLr1JjvlXFSu4EDWgyVr4Fr3&amp;hl=en&amp;w=640&amp;h=480)
 
+![Ansel Adams quote](https://lh3.googleusercontent.com/pw/AL9nZEX_RC4xVZjO1eektTPAhj4YzRJ1kh02yea-q3nCWROJGJn-RnGBu2QbVqXZWs13ssmoRTb4YV72UXe91mALC-KCxMZH1GGpOhBvt75ndpmLJKOoeBvsTx-BOZt3cc_59ZrPMnB4FULghDiRqt90OME9=w782-h194-no?authuser=0)
