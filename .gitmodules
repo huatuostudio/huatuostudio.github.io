@@ -1,6 +1,3 @@
-[submodule "themes/LoveIt"]
-	path = themes/LoveIt
-	url = https://github.com/huatuostudio/HugoLoveIt
 [submodule "themes/HugoLoveIt"]
 	path = themes/HugoLoveIt
 	url = https://github.com/huatuostudio/HugoLoveIt
