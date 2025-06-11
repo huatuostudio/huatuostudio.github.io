@@ -2,7 +2,7 @@
 title: "2024 weekend trips and events"
 date: 2024-12-31T00:00:09Z
 draft: false
-categories: ["Billie's Diary"]
+categories: ["Travel Australia"]
 tags: ["Road Trip", "Canberra", "Checklist", "Short Trip"]
 ---
 
