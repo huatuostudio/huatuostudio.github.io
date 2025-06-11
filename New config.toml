@@ -1,0 +1,79 @@
+baseURL = "https://huatuostudio.github.io"
+title = "Hua Tuo Studio"
+author = "@huatuostudio"
+copyright = "©2025 @huatuostudio"
+languageCode = "en"
+DefaultContentLanguage = "en"
+enableInlineShortcodes = true
+# prevent build failures when using Hugo's Instagram shortcode due to deprecated Instagram API.
+# See https://github.com/gohugoio/hugo/issues/7228#issuecomment-714490456
+ignoreErrors = ["error-remote-getjson"]
+[pagination]
+  pagerSize = 3
+
+# ------------------------------
+theme = "hugo-paper"
+
+[params]
+  color = 'linen'
+  # twitter = 'huatuostudio'
+  github = 'huatuostudio'
+  instagram = 'huatuostudio'
+
+avatar = 'huatuostudio@gmail.com'
+  name = '@huatuostudio'
+  bio = 'The world is an amazing place'
+# ------------------------------
+
+# needed to  render raw HTML (e.g. <sub>, <sup>, <kbd>, <mark>)
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+#  [markup.highlight]
+#    lineNos = true
+
+[menu]
+
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 10
+  [[menu.main]]
+    identifier = "contact"
+    name = "Contact"
+    url = "/contact/"
+    weight = 10
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+series = "series"
+
+[privacy]
+
+  [privacy.vimeo]
+    disabled = false
+    simple = true
+
+  [privacy.x]
+    disabled = false
+    enableDNT = true
+    simple = true
+
+  [privacy.instagram]
+    disabled = false
+    simple = true
+
+  [privacy.youtube]
+    disabled = false
+    privacyEnhanced = true
+
+[services]
+
+  [services.instagram]
+    disableInlineCSS = true
+
+  [services.x]
+    disableInlineCSS = true
