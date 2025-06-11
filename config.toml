@@ -4,7 +4,7 @@ baseURL = 'https://huatuostudio.github.io'
 title = 'Hua Tuo Studio 华拓工作室'
 
 # Change the default theme to be use when building the site with Hugo
-theme = "HugoLoveIt"
+theme = "paper"
 
 # determines default content language ["en", "zh-cn", "fr", "pl", ...]
 # 设置默认的语言 ["en", "zh-cn", "fr", "pl", ...]
