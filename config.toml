@@ -29,7 +29,7 @@ hasCJKLanguage = false
 googleAnalytics = ""
 # copyright description used only for seo schema
 # 版权描述，仅仅用于 SEO
-copyright = ""
+copyright = "@huatuostudio"
 
 # whether to use robots.txt
 # 是否使用 robots.txt
