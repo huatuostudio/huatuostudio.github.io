@@ -1,3 +1,0 @@
-# Road Trip Eucumbene
-
-
