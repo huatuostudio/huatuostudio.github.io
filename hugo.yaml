@@ -1,0 +1,71 @@
+baseURL: https://example.org/
+languageCode: en-us
+title: Hua Tuo Studio
+copyright: "© Hua Tuo Studio 2025"
+theme: ["PaperMod"]
+
+enableInlineShortcodes: true
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+enableEmoji: true
+pygmentsUseClasses: true
+mainsections: ["posts", "papermod"]
+
+pagination:
+  disableAliases: false
+  pagerSize: 5
+
+languages:
+  en:
+    languageName: "English"
+    contentDir: "content/en"
+    weight: 1
+    taxonomies:
+      category: categories
+      tag: tags
+    menu:
+      main:
+        - name: Archive
+          url: archives
+          weight: 5
+        - name: Search
+          url: search/
+          weight: 10
+        - name: Tags
+          url: tags/
+          weight: 10
+        - name: About
+          url: about/
+          weight: 10
+
+
+  zh-cn:
+    languageName: "简体中文"
+    contentDir: "content/zh-cn"
+    weight: 2
+    title: 华拓工作室
+    taxonomies:
+      category: 分类
+      tag: 标签
+    menu:
+      main:
+        - name: 历史
+          url: zh-cn/archives
+          weight: 5
+        - name: 标签
+          url: zh-cn/标签/
+          weight: 10
+        - name: 分类
+          url: zh-cn/分类/
+          weight: 10
+        - name: 关于
+          url: zh-cn/about/
+          weight: 10
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON

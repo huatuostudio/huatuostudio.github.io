@@ -1,22 +1,142 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Travel Australia on Hua Tuo Studio</title>
     <link>http://localhost:1313/categories/travel-australia/</link>
     <description>Recent content in Travel Australia on Hua Tuo Studio</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.147.8</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 20 Oct 2021 00:00:09 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/travel-australia/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Hua Tuo Studio 2025</copyright>
+    <lastBuildDate>Sun, 01 Jun 2025 00:00:09 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/travel-australia/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Welcome - My First Post</title>
-      <link>http://localhost:1313/20201020firstpost/</link>
-      <pubDate>Wed, 20 Oct 2021 00:00:09 +0000</pubDate>
-      
-      <guid>http://localhost:1313/20201020firstpost/</guid>
-      <description>Testing hugo
-Add some more text
-Testing 404</description>
+      <title>2025 weekend trips and events</title>
+      <link>http://localhost:1313/posts/20251231tripsevents/</link>
+      <pubDate>Sun, 01 Jun 2025 00:00:09 +0000</pubDate>
+      <guid>http://localhost:1313/posts/20251231tripsevents/</guid>
+      <description>&lt;p&gt;A summary of weekend trips taken and events that we have attended during 2025, for memory keeping.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; January: Bangalee &amp;amp; Shoalhaven Heads 3 days&lt;/li&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; June: Malua Bay for the long weekend&lt;/li&gt;
+&lt;/ul&gt;</description>
     </item>
-    
+    <item>
+      <title>2024 weekend trips and events</title>
+      <link>http://localhost:1313/posts/20241231tripsevents/</link>
+      <pubDate>Tue, 31 Dec 2024 00:00:09 +0000</pubDate>
+      <guid>http://localhost:1313/posts/20241231tripsevents/</guid>
+      <description>&lt;p&gt;A summary of weekend trips taken and events that we have attended during 2024, for memory keeping.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Visit Goulburn - day trip&lt;/li&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Visit Bungendore - day trip&lt;/li&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Visit Lake George&lt;/li&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; New Year’s Eve 2024 firework&lt;/li&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; &lt;a href=&#34;https://floriadeaustralia.com&#34;&gt;Floriade&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; &lt;a href=&#34;https://canberraballoonspectacular.com&#34;&gt;Balloon Festival&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; &lt;a href=&#34;https://multiculturalfestival.com.au&#34;&gt;National Multicultural Festival&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Christmas Picnic at &lt;a href=&#34;https://www.parks.act.gov.au/find-a-nature-park/murrumbidgee-river-corridor/uriarra-crossing&#34;&gt;Uriarra East&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Rodney&#39;s Nursery &amp; Garden Center</title>
+      <link>http://localhost:1313/posts/20240719rodneys/</link>
+      <pubDate>Fri, 19 Jul 2024 00:00:09 +0000</pubDate>
+      <guid>http://localhost:1313/posts/20240719rodneys/</guid>
+      <description>&lt;p&gt;If you are a Canberran and you enjoy gardening and growing vegetables, you should know about Rodney&amp;rsquo;s nursery and his café. Ever since my mother moved to Canberra in March this year, I have been wanting to take her here for a meal. It has been raining for the past few weeks, and today it finally cleared up. The three of us wander here for lunch.&lt;/p&gt;
+&lt;p&gt;The garden café was already quite busy at around 11:00 on a Sunday morning. Although it was a cold winter morning, the sun was out, and sitting by the outdoor electric heater, it didn&amp;rsquo;t feel cold at all.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Travel Checklist</title>
+      <link>http://localhost:1313/posts/20181224travelchecklist/</link>
+      <pubDate>Mon, 24 Dec 2018 00:00:09 +0000</pubDate>
+      <guid>http://localhost:1313/posts/20181224travelchecklist/</guid>
+      <description>&lt;p&gt;Life is simpler with a checklist. This is what I use before my travels:&lt;/p&gt;
+&lt;h2 id=&#34;travel-documents&#34;&gt;Travel Documents&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Check all your travel documentations carefully and contact your travel agencies immediately if you have any queries or problems,&lt;/li&gt;
+&lt;li&gt;It’s a good idea to have separate copies of all your documents (including passports) to carry and leave a copy of your itinerary with a relative or friend at home,&lt;/li&gt;
+&lt;li&gt;All names on the booking match passport names of all travellers,&lt;/li&gt;
+&lt;li&gt;Frequent flyer number has been advised and used in all bookings.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;passports&#34;&gt;Passports&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Check that your passport and visas are in order. Most countries require a minimum of 6 months’ validity on your passport (from your return date). If you are travelling on a non-Australian passport then you must carry correct re-entry documentation.&lt;/li&gt;
+&lt;li&gt;Check that you have the correct visa and passport type for your destination&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;flight-confirmation&#34;&gt;Flight confirmation&lt;/h2&gt;
+&lt;p&gt;Although most airlines do not require you to reconfirm, still, check your flight schedule at least 24 hours prior to departure. Airlines have the right to change flight times and dates without notice. Download the airline&amp;rsquo;s app and turn on notification.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Travel Bucket List</title>
+      <link>http://localhost:1313/posts/20180629travelbucketlist/</link>
+      <pubDate>Fri, 29 Jun 2018 00:00:09 +0000</pubDate>
+      <guid>http://localhost:1313/posts/20180629travelbucketlist/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Soak in the Pamukkale thermal pools, Turkey&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Explore the fascinating Salar de Uyuni salt flats, Bolivia&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Find paradise on Palawan Island, the Philippines&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; See the spectacular Northern Lights&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Discover the “temple that is a city” at Angkor Wat in Cambodia&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Scale Japan’s highest peak, Mount Fuji&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Take a trip into the wilderness on an African safari&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Ascend the arch of Sydney Harbour Bridge &lt;a href=&#34;https://www.huatuostudio.com/20130406harbourbridge/&#34;&gt;My story here&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Canberra</title>
+      <link>http://localhost:1313/posts/20180309canberra/</link>
+      <pubDate>Fri, 27 Apr 2018 00:00:09 +0000</pubDate>
+      <guid>http://localhost:1313/posts/20180309canberra/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Road Trip Eucumbene</title>
+      <link>http://localhost:1313/posts/20180427eucumbene/</link>
+      <pubDate>Fri, 27 Apr 2018 00:00:09 +0000</pubDate>
+      <guid>http://localhost:1313/posts/20180427eucumbene/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Road Trip WA</title>
+      <link>http://localhost:1313/posts/20160322roadtripwa/</link>
+      <pubDate>Tue, 22 Mar 2016 00:00:09 +0000</pubDate>
+      <guid>http://localhost:1313/posts/20160322roadtripwa/</guid>
+      <description>&lt;p&gt;2016 Easter. Another year and another Easter, time goes so fast. Three of us has decided to take a road trip to the Western Australia&amp;rsquo;s &lt;a href=&#34;http://www.southernforests.com.au&#34;&gt;Southern Forest Region&lt;/a&gt;. We all knew the region pretty well so the trip was roughly planned and the accommodation was booked a few days before the trip.&lt;/p&gt;
+&lt;h2 id=&#34;the-itinerary&#34;&gt;The Itinerary&lt;/h2&gt;
+&lt;p&gt;&lt;img alt=&#34;Itinerary Map&#34; loading=&#34;lazy&#34; src=&#34;https://lh3.googleusercontent.com/hH--bSMRKVwW5-xaF4uxMmZ5hfX7ngG2TpsrUnwLOvSl7r59g0Yx3RZ6qtbR4-tbDgcrYhltWxAyYzClargXCaLjZ9yG_bs6E6rhqOnl0wbIKjgpI-E2oUimpiBrijUm3WRQxSDNuzldCqSoCrUQWQ4N9Nk-Wtk09XH8wt5TwZ7xZ9E5fx4peaK5q59fo8KNzVo5bf-aidpF9Ur6x_h--ofZ_5bQFhXBIlVNtKb3BqnKWITKY7IoorYHOqqmTeBqOuNry4VlI93MCwQlntVisa5EVNeVTeJCLmYk06iC3LxTiMU2PpNYX66N-tHwwt0b9uAfwPwMp_XIjOSK00ZQZ_Gt1mxXrQHc7-Q3hgxNFXfBY2yiR6P4eV33NXFM6hyT_uUM8PZXQXN5wrVm8P4jfWsP6LfWhNFjBASMjRnD_07q8xce-19zP0OKvNHPGk9xsoaseUVISmcB4QYAdmBN29S3tQ24_URX_JAIGt0S4ynkJw0yHp98QkZlLzBn6fSXSON1Xfhd03PfvUwQDmaHkcrZj7RE5xrV1IqUwN-DlesLtG285C-SLM-qWzfd2lEDeGw_8sqxdbjJtU3KkgcWSx_c5_fEtGN_S2E4ETBMVRgp1_LI=w539-h689-no&#34; title=&#34;Itinerary Map&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;day-1&#34;&gt;Day 1&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Leave &lt;a href=&#34;https://en.wikipedia.org/wiki/Perth&#34;&gt;Perth&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Rest at &lt;a href=&#34;http://www.bunbury.wa.gov.au/&#34;&gt;Bunbury&lt;/a&gt; (1.5hrs), change driver&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Take the National Route 1 from &lt;a href=&#34;http://www.bunbury.wa.gov.au/&#34;&gt;Bunbury&lt;/a&gt; to &lt;a href=&#34;http://www.walpole.com.au/&#34;&gt;Walpole&lt;/a&gt;, rest at &lt;a href=&#34;https://en.wikipedia.org/wiki/Bridgetown,_Western_Australia&#34;&gt;Bridgetown&lt;/a&gt; and &lt;a href=&#34;https://en.wikipedia.org/wiki/Manjimup,_Western_Australia&#34;&gt;Manjimup&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Sydney Harbour Bridge Climb</title>
+      <link>http://localhost:1313/posts/20130406harbourbridge/</link>
+      <pubDate>Sat, 06 Apr 2013 00:00:09 +0000</pubDate>
+      <guid>http://localhost:1313/posts/20130406harbourbridge/</guid>
+      <description>&lt;h2 id=&#34;the-experience&#34;&gt;The Experience&lt;/h2&gt;
+&lt;p&gt;&lt;img alt=&#34;Sydney Bridge Climb Trip&#34; loading=&#34;lazy&#34; src=&#34;https://lh3.googleusercontent.com/dTPV7bDRQYFLLHGqiCMyWyAZsqE2s6ofuvuRC1Fh7AW1eaFEDzXhoxhXsUULeu0Y8tDGNqloriQQ66DIZsdg-Dp7SLuQP85aJw-EIXsOaZ0-ZKCqV9pDkBq7wpXWmu_phTWbT7cGVEqpnmSN0fws6MHT69LgceRva2Zxev9ioVxyXFFw0NpereJLOuAFCh9OwJncNjbhuZ5mb9EK3QJdxYxvV3fi57An7w7ItiLMN7mofRjQW8jALHHeVauFDr1Xpu8CCNN0cGE4UJOYujKmyDGLk99WPIFruEozUevAp2NGOSvHESN81AmGYuXScptYC_MXuBf5PRyCZyy1C7_Cu6qaPM7rN2oG7UInNE4IpNgP_UBn9WsUVJNkpWeld1HuPaEjVeOshsuP3eQROItAs3uwq9SfzF6JIujSIs99alH8lDzlaTc0LTHXRSuqXHnrHYILdbNBKT1UTraOmzVH7bofQyu04C3MUZVpmleQf--sO2bBHiW-5oJBTLyjgYkv2CCW5HVM4nCDGGPRz1Bkm1F_VWygksy1URAwhjmF_4m6MC8wCNfk5vQUyq_zHUwo1KB8sWSj5p644QC9csuw8wRLfjsIIZ02Cehg3ySQ373XggV_hUA79lHPFAXDvTOKWLawjr4cta4VjCp76xouX4EmE7bOPBiE=w434-h423-no&#34;&gt;&lt;/p&gt;
+&lt;p&gt;John has bought me a ticket for a full 3 hours of &lt;a href=&#34;http://www.bridgeclimb.com/&#34;&gt;Sydney Harbour Bridge Climb&lt;/a&gt; for my birthday this year (thank you John!! 💕 ). I have to say that I have always thought the bridge climb is an overpriced tourist thing. Why would I ever do that if I live here?! :) Nevertheless, I was excited to wake up at 3am to get ready for the &lt;a href=&#34;http://www.bridgeclimb.com/&#34;&gt;bridge climb&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>

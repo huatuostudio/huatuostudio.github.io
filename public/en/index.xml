@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Ens on Hua Tuo Studio</title>
+    <link>http://localhost:1313/en/</link>
+    <description>Recent content in Ens on Hua Tuo Studio</description>
+    <generator>Hugo -- 0.147.8</generator>
+    <language>en</language>
+    <copyright>Hua Tuo Studio 2025</copyright>
+    <lastBuildDate>Fri, 21 Oct 2022 00:00:09 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/en/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Hua Tuo Studio</title>
+      <link>http://localhost:1313/en/about/</link>
+      <pubDate>Fri, 21 Oct 2022 00:00:09 +0000</pubDate>
+      <guid>http://localhost:1313/en/about/</guid>
+      <description>&lt;h2 id=&#34;2022-10-21&#34;&gt;2022-10-21&lt;/h2&gt;
+&lt;p&gt;Currently, I&amp;rsquo;m using this space as my travel diary&amp;hellip;&lt;/p&gt;
+&lt;p&gt;Please let me know via the comments area if you see a broken link or anything else that is missing/incorrect. Thanks!&lt;/p&gt;
+&lt;h2 id=&#34;places-i-have-been-so-far&#34;&gt;Places I have been so far&lt;/h2&gt;
+&lt;p&gt;&lt;img alt=&#34;Places I have been so far&#34; loading=&#34;lazy&#34; src=&#34;https://lh3.googleusercontent.com/pw/AL9nZEVMyJajI52amyotXRGt5oMznMI7uo-IvZKFFpVjVu6np7GXjOS-7vegcD3M9MutaTaOxxJT4P5h2m1-wcrxaXf6dxqXjSQWs0wg_zSGe8W24SZ61KNR91i7ZLNUOsKN_ump3ZG0IwEi_tYMwPjJ2wlY=w2166-h1194-no?authuser=0&#34; title=&#34;Places I have been so far&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.google.com/maps/d/embed?mid=1bm8-7T-QWLr1JjvlXFSu4EDWgyVr4Fr3&amp;amp;amp;hl=en&amp;amp;amp;w=640&amp;amp;amp;h=480&#34;&gt;View details on Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Ansel Adams quote&#34; loading=&#34;lazy&#34; src=&#34;https://lh3.googleusercontent.com/pw/AL9nZEX_RC4xVZjO1eektTPAhj4YzRJ1kh02yea-q3nCWROJGJn-RnGBu2QbVqXZWs13ssmoRTb4YV72UXe91mALC-KCxMZH1GGpOhBvt75ndpmLJKOoeBvsTx-BOZt3cc_59ZrPMnB4FULghDiRqt90OME9=w782-h194-no?authuser=0&#34;&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
