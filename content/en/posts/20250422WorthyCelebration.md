@@ -1,6 +1,6 @@
 ---
-date: '2025-04-22T12:15:35+10:00'
-title: 'Worthy a Celebration'
+date: 2025-04-22T12:15:35+10:00
+title: "Worthy a Celebration"
 author: "@huatuostudio"
 categories: [Reflections]
 tags: [People]
@@ -15,4 +15,4 @@ They live independently. I offered to do grocery for them or to drive them to th
 
 I hear more and more on AI and robots used to assist older people. It's not just a trend; it's inevitable. But would that really able to replace human interactions? 
 
-<img src="https://purepng.com/public/uploads/large/purepng.com-rose-bouquetrose-flower-bouquet-961524679508lude9.png" alt="A bouquet of vibrant red roses with lush green leaves, arranged closely together as if freshly picked for a celebration. The flowers are the central focus, conveying a joyful and loving atmosphere. The background is transparent, emphasizing the beauty and detail of the roses and leaves." >
+{{< figure src="https://purepng.com/public/uploads/large/purepng.com-rose-bouquetrose-flower-bouquet-961524679508lude9.png" alt="A bouquet of vibrant red roses with lush green leaves, arranged closely together as if freshly picked for a celebration. The flowers are the central focus, conveying a joyful and loving atmosphere. The background is transparent, emphasizing the beauty and detail of the roses and leaves." style="width:300px;height:200px;margin:auto;" >}}

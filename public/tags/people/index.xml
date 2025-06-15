@@ -17,15 +17,18 @@
       <description>&lt;p&gt;Here is a list of useful website building/maintenance tools that I&amp;rsquo;m using:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;All posts on this site uses Markdown. So here is the always useful &lt;a href=&#34;https://www.markdownguide.org/cheat-sheet/&#34;&gt;Markdown Cheatsheet&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;All posts on this site use Markdown. So here is the always useful &lt;a href=&#34;https://www.markdownguide.org/cheat-sheet/&#34;&gt;Markdown Cheatsheet&lt;/a&gt;.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Embed YouTube Video with Markdown&lt;/p&gt;
+&lt;p&gt;Embed YouTube Video with Markdown with a preview image&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://gist.github.com/bitsurgeon/acd769ae3236c48a433e0acb11784c2e&#34;&gt;Details on this Github repo&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;e.g.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://youtu.be/0VxtlFkuDMs?si=tfDuvuYZt-WvZMbn&#34;&gt;&lt;img alt=&#34;watch the video&#34; loading=&#34;lazy&#34; src=&#34;https://img.youtube.com/vi/0VxtlFkuDMs/0.jpg&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;code used for above ^^:&lt;/p&gt;
 &lt;p&gt;&lt;code&gt;[![watch the video](https://img.youtube.com/vi/0VxtlFkuDMs/0.jpg)](https://youtu.be/0VxtlFkuDMs?si=tfDuvuYZt-WvZMbn)&lt;/code&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;how to create descriptions for SOE by &lt;a href=&#34;https://developers.google.com/search/docs/appearance/snippet#:~:text=and%20popular%20pages.-,Include%20relevant%20information%20about%20the%20content%20in%20the%20description,of%20publication%2C%20or%20byline%20information.&#34;&gt;Google&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;</description>
     </item>
