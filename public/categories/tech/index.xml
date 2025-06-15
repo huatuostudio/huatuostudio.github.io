@@ -14,9 +14,7 @@
       <link>http://localhost:1313/posts/20250610newlook/</link>
       <pubDate>Wed, 11 Jun 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/20250610newlook/</guid>
-      <description>&lt;p&gt;This website is powered by Hugo.&lt;/p&gt;
-&lt;p&gt;I&amp;rsquo;ve been using the Hugo template &lt;a href=&#34;https://github.com/dillonzq/LoveIt&#34;&gt;LoveIt&lt;/a&gt; for a long time and it just won&amp;rsquo;t do anymore. I&amp;rsquo;ve found &lt;a href=&#34;https://themes.gohugo.io/themes/hugo-paper/&#34;&gt;Paper&lt;/a&gt; and liked it. So, I&amp;rsquo;m using &lt;a href=&#34;https://themes.gohugo.io/themes/hugo-papermod/&#34;&gt;PaperMod&lt;/a&gt; now for this webiste. 😺&lt;/p&gt;
-&lt;p&gt;I&amp;rsquo;ve been avoiding from spending time learning Hugo for so long. For this update, I&amp;rsquo;m going to learn while I build so I&amp;rsquo;m not hacking it blindly. I&amp;rsquo;m actually going to put some thoughts into designing and structuring the site. 😺&lt;/p&gt;</description>
+      <description>Tools and tips from @huatuostudio while building this Hugo Website.</description>
     </item>
     <item>
       <title>RSPCA Pet Quiz Website</title>

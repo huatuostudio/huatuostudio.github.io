@@ -1,12 +1,13 @@
 ---
 title: "Road Trip WA"
-date: 2016-03-22
+date: 2016-03-23
 author: "@huatuostudio"
 categories: ["Travel Australia"]
 tags: ["road trip", "Western Australia", "Perth", "trip planning"]
+showtoc: true
 ---
 
-2016 Easter. Another year and another Easter, time goes so fast. Three of us has decided to take a road trip to the Western Australia's [Southern Forest Region](http://www.southernforests.com.au). We all knew the region pretty well so the trip was roughly planned and the accommodation was booked a few days before the trip.
+24-25, March 2016, Easter. Another year and another Easter, time goes so fast. Three of us has decided to take a road trip to the Western Australia's [Southern Forest Region](http://www.southernforests.com.au). We all knew the region pretty well so the trip was roughly planned and the accommodation was booked a few days before the trip.
 ## The Itinerary
 
 ![Itinerary Map](https://lh3.googleusercontent.com/hH--bSMRKVwW5-xaF4uxMmZ5hfX7ngG2TpsrUnwLOvSl7r59g0Yx3RZ6qtbR4-tbDgcrYhltWxAyYzClargXCaLjZ9yG_bs6E6rhqOnl0wbIKjgpI-E2oUimpiBrijUm3WRQxSDNuzldCqSoCrUQWQ4N9Nk-Wtk09XH8wt5TwZ7xZ9E5fx4peaK5q59fo8KNzVo5bf-aidpF9Ur6x_h--ofZ_5bQFhXBIlVNtKb3BqnKWITKY7IoorYHOqqmTeBqOuNry4VlI93MCwQlntVisa5EVNeVTeJCLmYk06iC3LxTiMU2PpNYX66N-tHwwt0b9uAfwPwMp_XIjOSK00ZQZ_Gt1mxXrQHc7-Q3hgxNFXfBY2yiR6P4eV33NXFM6hyT_uUM8PZXQXN5wrVm8P4jfWsP6LfWhNFjBASMjRnD_07q8xce-19zP0OKvNHPGk9xsoaseUVISmcB4QYAdmBN29S3tQ24_URX_JAIGt0S4ynkJw0yHp98QkZlLzBn6fSXSON1Xfhd03PfvUwQDmaHkcrZj7RE5xrV1IqUwN-DlesLtG285C-SLM-qWzfd2lEDeGw_8sqxdbjJtU3KkgcWSx_c5_fEtGN_S2E4ETBMVRgp1_LI=w539-h689-no "Itinerary Map")

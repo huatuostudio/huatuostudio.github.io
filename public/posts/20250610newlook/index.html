@@ -7,9 +7,7 @@
 <meta name="robots" content="noindex, nofollow">
 <title>Website rebuild | Hua Tuo Studio</title>
 <meta name="keywords" content="project">
-<meta name="description" content="This website is powered by Hugo.
-I&rsquo;ve been using the Hugo template LoveIt for a long time and it just won&rsquo;t do anymore. I&rsquo;ve found Paper and liked it. So, I&rsquo;m using PaperMod now for this webiste. 😺
-I&rsquo;ve been avoiding from spending time learning Hugo for so long. For this update, I&rsquo;m going to learn while I build so I&rsquo;m not hacking it blindly. I&rsquo;m actually going to put some thoughts into designing and structuring the site. 😺">
+<meta name="description" content="Tools and tips from @huatuostudio while building this Hugo Website.">
 <meta name="author" content="@huatuostudio">
 <link rel="canonical" href="http://localhost:1313/posts/20250610newlook/">
 <link crossorigin="anonymous" href="/assets/css/stylesheet.8fe10233a706bc87f2e08b3cf97b8bd4c0a80f10675a143675d59212121037c0.css" integrity="sha256-j&#43;ECM6cGvIfy4Is8&#43;XuL1MCoDxBnWhQ2ddWSEhIQN8A=" rel="preload stylesheet" as="style">
@@ -142,6 +140,9 @@ I&rsquo;ve been avoiding from spending time learning Hugo for so long. For this 
     <h1 class="post-title entry-hint-parent">
       Website rebuild
     </h1>
+    <div class="post-description">
+      Tools and tips from @huatuostudio while building this Hugo Website.
+    </div>
     <div class="post-meta"><span title='2025-06-11 00:00:00 +0000 UTC'>June 11, 2025</span>&nbsp;·&nbsp;@huatuostudio
 
 </div>
@@ -155,7 +156,13 @@ I&rsquo;ve been avoiding from spending time learning Hugo for so long. For this 
                 <li>
                     <a href="#build-the-site" aria-label="Build the site">Build the site</a></li>
                 <li>
-                    <a href="#configurations" aria-label="Configurations">Configurations</a></li>
+                    <a href="#configurations" aria-label="Configurations">Configurations</a><ul>
+                        
+                <li>
+                    <a href="#display-the-full-language-name" aria-label="Display the full language name">Display the full language name</a></li>
+                <li>
+                    <a href="#add-a-cname" aria-label="Add a CNAME">Add a CNAME</a></li></ul>
+                </li>
                 <li>
                     <a href="#references" aria-label="References">References</a>
                 </li>
@@ -164,8 +171,8 @@ I&rsquo;ve been avoiding from spending time learning Hugo for so long. For this 
     </details>
 </div>
 
-  <div class="post-content"><p>This website is powered by Hugo.</p>
-<p>I&rsquo;ve been using the Hugo template <a href="https://github.com/dillonzq/LoveIt">LoveIt</a> for a long time and it just won&rsquo;t do anymore. I&rsquo;ve found <a href="https://themes.gohugo.io/themes/hugo-paper/">Paper</a> and liked it. So, I&rsquo;m using <a href="https://themes.gohugo.io/themes/hugo-papermod/">PaperMod</a> now for this webiste. 😺</p>
+  <div class="post-content"><p>This website is powered by (Hugo](<a href="https://gohugo.io">https://gohugo.io</a>).</p>
+<p>I&rsquo;ve been using the <a href="https://themes.gohugo.io">Hugo theme</a> <a href="https://github.com/dillonzq/LoveIt">LoveIt</a> for a long time and it just won&rsquo;t do anymore. I&rsquo;ve found <a href="https://themes.gohugo.io/themes/hugo-paper/">Paper</a> and liked it. So, I&rsquo;m using <a href="https://themes.gohugo.io/themes/hugo-papermod/">PaperMod</a> now for this webiste. 😺</p>
 <p>I&rsquo;ve been avoiding from spending time learning Hugo for so long. For this update, I&rsquo;m going to learn while I build so I&rsquo;m not hacking it blindly. I&rsquo;m actually going to put some thoughts into designing and structuring the site. 😺</p>
 <p>It&rsquo;s a sunny winter afternoon (-4 degrees in the morning), perfect, lets get on with this.</p>
 <h1 id="build-the-site">Build the site<a hidden class="anchor" aria-hidden="true" href="#build-the-site">#</a></h1>
@@ -179,12 +186,14 @@ I&rsquo;ve been avoiding from spending time learning Hugo for so long. For this 
 <li>move the folder inside of the themems folder</li>
 <li>run &ldquo;git init&rdquo; in terminal</li>
 </ol>
-<p>One of the major decision point to use the theme is that it&rsquo;s multilingual support. <a href="https://blog.lookscanned.io/posts/custom-language-select-in-hugo-papermod/">Look Scanned Blog</a> has a good post on how to modify the language selector.</p>
 <h1 id="configurations">Configurations<a hidden class="anchor" aria-hidden="true" href="#configurations">#</a></h1>
-<p>adding this to hugo.yaml to make</p>
+<h2 id="display-the-full-language-name">Display the full language name<a hidden class="anchor" aria-hidden="true" href="#display-the-full-language-name">#</a></h2>
+<p>One of the major decision point to use the theme is that it has multilingual support. <a href="https://blog.lookscanned.io/posts/custom-language-select-in-hugo-papermod/">Look Scanned Blog</a> has a good post on how to modify the language selector.</p>
+<p>I wanted to keep things simple but I want to have the language display fullname i.e. &ldquo;English&rdquo; istead of &ldquo;en&rdquo;. To do that, just add the line below to the hugo.yaml file.</p>
 <pre tabindex="0"><code class="language-Hugo" data-lang="Hugo">params:
   displayFullLangName: true
-</code></pre><h1 id="references">References<a hidden class="anchor" aria-hidden="true" href="#references">#</a></h1>
+</code></pre><h2 id="add-a-cname">Add a CNAME<a hidden class="anchor" aria-hidden="true" href="#add-a-cname">#</a></h2>
+<h1 id="references">References<a hidden class="anchor" aria-hidden="true" href="#references">#</a></h1>
 <p>TBC</p>
 
 
