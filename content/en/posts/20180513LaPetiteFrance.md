@@ -1,6 +1,7 @@
 ---
 title: "La Petite France"
-date: 2018-05-15T00:00:09Z
+date: 2018-05-15
+author: "@huatuostudio"
 categories: ["Travel France"]
 tags: ["Albatross Tours"]
 ---

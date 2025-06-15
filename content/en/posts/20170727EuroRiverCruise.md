@@ -1,6 +1,7 @@
 ---
 title: "European Gems Cruise with Travelmarvel"
-date: 2017-07-27T00:00:09Z
+date: 2017-07-27
+author: "@huatuostudio"
 categories: ["Travel Europe"]
 tags: ["Travelmarvel", "Euro", "river cruise"]
 ---

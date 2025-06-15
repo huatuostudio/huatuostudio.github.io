@@ -1,6 +1,7 @@
 ---
 title: "Travel Bucket List"
-date: 2018-06-29T00:00:09Z
+date: 2018-06-29
+author: "@huatuostudio"
 categories: ["Travel Australia"]
 tags: ["checklist"]
 ---

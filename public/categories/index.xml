@@ -7,68 +7,68 @@
     <generator>Hugo -- 0.147.8</generator>
     <language>en</language>
     <copyright>Hua Tuo Studio 2025</copyright>
-    <lastBuildDate>Sun, 01 Jun 2025 00:00:09 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Jun 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tech</title>
+      <link>http://localhost:1313/categories/tech/</link>
+      <pubDate>Wed, 11 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/tech/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Travel Australia</title>
       <link>http://localhost:1313/categories/travel-australia/</link>
-      <pubDate>Sun, 01 Jun 2025 00:00:09 +0000</pubDate>
+      <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/categories/travel-australia/</guid>
       <description></description>
     </item>
     <item>
       <title>Billie&#39;s Diary</title>
       <link>http://localhost:1313/categories/billies-diary/</link>
-      <pubDate>Fri, 10 Mar 2023 00:00:09 +0000</pubDate>
+      <pubDate>Fri, 10 Mar 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/categories/billies-diary/</guid>
       <description></description>
     </item>
     <item>
       <title>Travel France</title>
       <link>http://localhost:1313/categories/travel-france/</link>
-      <pubDate>Tue, 15 May 2018 00:00:09 +0000</pubDate>
+      <pubDate>Tue, 15 May 2018 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/categories/travel-france/</guid>
       <description></description>
     </item>
     <item>
       <title>Travel Europe</title>
       <link>http://localhost:1313/categories/travel-europe/</link>
-      <pubDate>Thu, 27 Jul 2017 00:00:09 +0000</pubDate>
+      <pubDate>Thu, 27 Jul 2017 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/categories/travel-europe/</guid>
       <description></description>
     </item>
     <item>
       <title>Reflections</title>
       <link>http://localhost:1313/categories/reflections/</link>
-      <pubDate>Sun, 10 Apr 2016 00:00:09 +0000</pubDate>
+      <pubDate>Sun, 10 Apr 2016 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/categories/reflections/</guid>
       <description></description>
     </item>
     <item>
       <title>Travel Taiwan</title>
       <link>http://localhost:1313/categories/travel-taiwan/</link>
-      <pubDate>Sun, 05 Apr 2015 00:00:09 +0000</pubDate>
+      <pubDate>Sun, 05 Apr 2015 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/categories/travel-taiwan/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Tech</title>
-      <link>http://localhost:1313/categories/tech/</link>
-      <pubDate>Fri, 05 Sep 2014 00:00:09 +0000</pubDate>
-      <guid>http://localhost:1313/categories/tech/</guid>
       <description></description>
     </item>
     <item>
       <title>Travel UK</title>
       <link>http://localhost:1313/categories/travel-uk/</link>
-      <pubDate>Wed, 18 Jun 2014 00:00:09 +0000</pubDate>
+      <pubDate>Wed, 18 Jun 2014 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/categories/travel-uk/</guid>
       <description></description>
     </item>
     <item>
       <title>Misc</title>
       <link>http://localhost:1313/categories/misc/</link>
-      <pubDate>Tue, 30 Apr 2013 00:00:09 +0000</pubDate>
+      <pubDate>Tue, 30 Apr 2013 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/categories/misc/</guid>
       <description></description>
     </item>

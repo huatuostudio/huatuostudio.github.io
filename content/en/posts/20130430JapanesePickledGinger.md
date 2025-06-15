@@ -1,6 +1,7 @@
 ---
 title: "How To Make Japanese Pickled Ginger"
-date: 2013-04-30T00:00:09Z
+date: 2013-04-30
+author: "@huatuostudio"
 categories: ["Misc"]
 tags: ["foodie"]
 ---

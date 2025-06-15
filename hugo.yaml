@@ -30,8 +30,8 @@ languages:
         - name: Archive
           url: archives
           weight: 5
-        - name: Search
-          url: search/
+        - name: Categories
+          url: categories/
           weight: 10
         - name: Tags
           url: tags/
@@ -39,7 +39,9 @@ languages:
         - name: About
           url: about/
           weight: 10
-
+        - name: Search
+          url: search/
+          weight: 20
 
   zh-cn:
     languageName: "简体中文"
@@ -69,3 +71,6 @@ outputs:
     - HTML
     - RSS
     - JSON
+
+params:
+  displayFullLangName: true

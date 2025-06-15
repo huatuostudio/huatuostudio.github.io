@@ -1,6 +1,7 @@
 ---
 title: "2025 weekend trips and events"
-date: 2025-06-01T00:00:09Z
+date: 2025-06-01
+author: "@huatuostudio"
 categories: ["Travel Australia"]
 tags: ["Road Trip", "Canberra", "Checklist", "Short Trip"]
 ---

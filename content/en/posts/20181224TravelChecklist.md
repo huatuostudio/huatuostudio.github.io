@@ -1,6 +1,7 @@
 ---
 title: "Travel Checklist"
-date: 2018-12-24T00:00:09Z
+date: 2018-12-24
+author: "@huatuostudio"
 categories: ["Travel Australia"]
 tags: ["checklist"]
 ---

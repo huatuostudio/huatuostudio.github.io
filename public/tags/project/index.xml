@@ -7,12 +7,21 @@
     <generator>Hugo -- 0.147.8</generator>
     <language>en</language>
     <copyright>Hua Tuo Studio 2025</copyright>
-    <lastBuildDate>Fri, 05 Sep 2014 00:00:09 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Jun 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/project/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Website rebuild</title>
+      <link>http://localhost:1313/posts/20250610newlook/</link>
+      <pubDate>Wed, 11 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/20250610newlook/</guid>
+      <description>&lt;p&gt;This website is powered by Hugo.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;ve been using the Hugo template &lt;a href=&#34;https://github.com/dillonzq/LoveIt&#34;&gt;LoveIt&lt;/a&gt; for a long time and it just won&amp;rsquo;t do anymore. I&amp;rsquo;ve found &lt;a href=&#34;https://themes.gohugo.io/themes/hugo-paper/&#34;&gt;Paper&lt;/a&gt; and liked it. So, I&amp;rsquo;m using &lt;a href=&#34;https://themes.gohugo.io/themes/hugo-papermod/&#34;&gt;PaperMod&lt;/a&gt; now for this webiste. 😺&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;ve been avoiding from spending time learning Hugo for so long. For this update, I&amp;rsquo;m going to learn while I build so I&amp;rsquo;m not hacking it blindly. I&amp;rsquo;m actually going to put some thoughts into designing and structuring the site. 😺&lt;/p&gt;</description>
+    </item>
     <item>
       <title>RSPCA Pet Quiz Website</title>
       <link>http://localhost:1313/posts/20140905petquiz/</link>
-      <pubDate>Fri, 05 Sep 2014 00:00:09 +0000</pubDate>
+      <pubDate>Fri, 05 Sep 2014 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/20140905petquiz/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m giving myself a 🌟 for finishing a little volunteer project for &lt;a href=&#34;http://www.rspca.org.au/&#34; title=&#34;RSPCA Au&#34;&gt;RSPCA (AU)&lt;/a&gt; ACT. :-)&lt;/p&gt;
 &lt;p&gt;The idea is to create a website that contains a &lt;a href=&#34;http://rspcapetquiz.com&#34; title=&#34;RSPCA pet quiz&#34;&gt;Pet Quiz&lt;/a&gt; where people answer a few questions to find out what kind of pet is the best suitable for them. The logic for the website is pretty simple so I kept the design simple and clean too. The website is going to be used on &lt;a href=&#34;https://www.apple.com/au/ipad/&#34;&gt;iPads&lt;/a&gt; in &lt;a href=&#34;http://www.rspca.org.au/&#34;&gt;RSPCA&lt;/a&gt; ACT&amp;rsquo;s booth at this year&amp;rsquo;s &lt;a href=&#34;http://www.floriadeaustralia.com/&#34;&gt;Florida&lt;/a&gt; (URL: &lt;a href=&#34;http://rspcapetquiz.com&#34;&gt;http://rspcapetquiz.com&lt;/a&gt;).&lt;/p&gt;</description>

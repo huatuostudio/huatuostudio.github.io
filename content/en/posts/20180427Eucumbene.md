@@ -1,6 +1,7 @@
 ---
 title: "Road Trip Eucumbene"
-date: 2018-04-27T00:00:09Z
+date: 2018-04-27
+author: "@huatuostudio"
 categories: ["Travel Australia"]
 tags: ["road trip", "Eucumbene"]
 ---
