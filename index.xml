@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Hua Tuo Studio</title><link>https://huatuostudio.github.io/</link><description>Recent content on Hua Tuo Studio</description><generator>Hugo -- 0.147.8</generator><language>en</language><copyright>Hua Tuo Studio 2025</copyright><lastBuildDate>Sun, 15 Jun 2025 12:20:26 +1000</lastBuildDate><atom:link href="https://huatuostudio.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Website Tools</title><link>https://huatuostudio.github.io/posts/20250615tools/</link><pubDate>Sun, 15 Jun 2025 12:20:26 +1000</pubDate><guid>https://huatuostudio.github.io/posts/20250615tools/</guid><description>&lt;p>Here is a list of useful website building/maintenance tools that I&amp;rsquo;m using:&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Hua Tuo Studio</title><link>https://huatuostudio.github.io/</link><description>Recent content on Hua Tuo Studio</description><generator>Hugo -- 0.147.9</generator><language>en</language><copyright>Hua Tuo Studio 2025</copyright><lastBuildDate>Sun, 15 Jun 2025 12:20:26 +1000</lastBuildDate><atom:link href="https://huatuostudio.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Website Tools</title><link>https://huatuostudio.github.io/posts/20250615tools/</link><pubDate>Sun, 15 Jun 2025 12:20:26 +1000</pubDate><guid>https://huatuostudio.github.io/posts/20250615tools/</guid><description>&lt;p>Here is a list of useful website building/maintenance tools that I&amp;rsquo;m using:&lt;/p>
 &lt;ul>
 &lt;li>
 &lt;p>All posts on this site use Markdown. So here is the always useful &lt;a href="https://www.markdownguide.org/cheat-sheet/">Markdown Cheatsheet&lt;/a>.&lt;/p>
@@ -14,23 +14,42 @@
 &lt;li>
 &lt;p>how to create descriptions for SOE by &lt;a href="https://developers.google.com/search/docs/appearance/snippet#:~:text=and%20popular%20pages.-,Include%20relevant%20information%20about%20the%20content%20in%20the%20description,of%20publication%2C%20or%20byline%20information.">Google&lt;/a>&lt;/p>
 &lt;/li>
-&lt;/ul></description></item><item><title>Website rebuild</title><link>https://huatuostudio.github.io/posts/20250610newlook/</link><pubDate>Wed, 11 Jun 2025 00:00:00 +0000</pubDate><guid>https://huatuostudio.github.io/posts/20250610newlook/</guid><description>Tools and tips from @huatuostudio while building this Hugo Website.</description></item><item><title>2025 weekend trips and events</title><link>https://huatuostudio.github.io/posts/20251231tripsevents/</link><pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate><guid>https://huatuostudio.github.io/posts/20251231tripsevents/</guid><description>&lt;p>A summary of weekend trips taken and events that we have attended during 2025, for memory keeping.&lt;/p>
+&lt;/ul></description></item><item><title>Website rebuild</title><link>https://huatuostudio.github.io/posts/20250610newlook/</link><pubDate>Wed, 11 Jun 2025 00:00:00 +0000</pubDate><guid>https://huatuostudio.github.io/posts/20250610newlook/</guid><description>Tools and tips from @huatuostudio while building this Hugo Website.</description></item><item><title>2025 Trips and Events</title><link>https://huatuostudio.github.io/posts/20251231tripsevents/</link><pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate><guid>https://huatuostudio.github.io/posts/20251231tripsevents/</guid><description>&lt;p>A summary of weekend trips taken and events that we have attended during 2025, for memory keeping.&lt;/p>
 &lt;ul>
-&lt;li>&lt;input checked="" disabled="" type="checkbox"> January: Bangalee &amp;amp; Shoalhaven Heads 3 days&lt;/li>
-&lt;li>&lt;input checked="" disabled="" type="checkbox"> June: Malua Bay for the long weekend&lt;/li>
+&lt;li>&lt;input checked="" disabled="" type="checkbox"> January: Bangalee &amp;amp; Shoalhaven Heads 3 days w/ B&amp;amp;W&lt;/li>
+&lt;li>&lt;input checked="" disabled="" type="checkbox"> March: &lt;a href="https://multiculturalfestival.com.au">National Multicultural Festival&lt;/a> w/ B&amp;amp;W&lt;/li>
+&lt;li>&lt;input checked="" disabled="" type="checkbox"> May: &lt;a href="https://www.millionpawswalk.com.au">RSPCA Million Paws Walk&lt;/a> w/ B&amp;amp;GM&lt;/li>
+&lt;li>&lt;input checked="" disabled="" type="checkbox"> June: Malua Bay for the long weekend w/ B&amp;amp;W&lt;/li>
+&lt;li>&lt;input checked="" disabled="" type="checkbox"> July: Sydney w/ JB&lt;/li>
 &lt;/ul></description></item><item><title>Worthy a Celebration</title><link>https://huatuostudio.github.io/posts/20250422worthycelebration/</link><pubDate>Tue, 22 Apr 2025 12:15:35 +1000</pubDate><guid>https://huatuostudio.github.io/posts/20250422worthycelebration/</guid><description>&lt;p>My neighbours are in their 90s. Today, they have celebrated their 69th wedding anniversary in the garden with their friends, including another couple who were celebrating their 64 years of marriage! The party started at lunch time and they were still there at 5pm 😺&lt;/p>
-&lt;p>Such an amazing milestone! Long marriages - I wonder if it’s going to be a thing belongs to the past generation only. Most of my friends got married later in life and many marriages did not last long. There seem to be a different kind of expiration date on marriages these days. Not sure if that’s sad or just the way things are now.&lt;/p></description></item><item><title>2024 weekend trips and events</title><link>https://huatuostudio.github.io/posts/20241231tripsevents/</link><pubDate>Tue, 31 Dec 2024 00:00:00 +0000</pubDate><guid>https://huatuostudio.github.io/posts/20241231tripsevents/</guid><description>&lt;p>A summary of weekend trips taken and events that we have attended during 2024, for memory keeping.&lt;/p>
+&lt;p>Such an amazing milestone! Long marriages - I wonder if it’s going to be a thing belongs to the past generation only. Most of my friends got married later in life and many marriages did not last long. There seem to be a different kind of expiration date on marriages these days. Not sure if that’s sad or just the way things are now.&lt;/p></description></item><item><title>2024 Trips and Events</title><link>https://huatuostudio.github.io/posts/20241231tripsevents/</link><pubDate>Tue, 31 Dec 2024 00:00:00 +0000</pubDate><guid>https://huatuostudio.github.io/posts/20241231tripsevents/</guid><description>&lt;p>A summary of trips taken and events that we have attended during 2024, for memory keeping.&lt;/p>
 &lt;ul>
-&lt;li>&lt;input checked="" disabled="" type="checkbox"> Visit Goulburn - day trip&lt;/li>
-&lt;li>&lt;input checked="" disabled="" type="checkbox"> Visit Bungendore - day trip&lt;/li>
-&lt;li>&lt;input checked="" disabled="" type="checkbox"> Visit Lake George&lt;/li>
-&lt;li>&lt;input checked="" disabled="" type="checkbox"> New Year’s Eve 2024 firework&lt;/li>
-&lt;li>&lt;input checked="" disabled="" type="checkbox"> &lt;a href="https://floriadeaustralia.com">Floriade&lt;/a>&lt;/li>
-&lt;li>&lt;input checked="" disabled="" type="checkbox"> &lt;a href="https://canberraballoonspectacular.com">Balloon Festival&lt;/a>&lt;/li>
-&lt;li>&lt;input checked="" disabled="" type="checkbox"> &lt;a href="https://multiculturalfestival.com.au">National Multicultural Festival&lt;/a>&lt;/li>
-&lt;li>&lt;input checked="" disabled="" type="checkbox"> Christmas Picnic at &lt;a href="https://www.parks.act.gov.au/find-a-nature-park/murrumbidgee-river-corridor/uriarra-crossing">Uriarra East&lt;/a>&lt;/li>
+&lt;li>&lt;input checked="" disabled="" type="checkbox"> Visit Goulburn - day trip w/ B&amp;amp;W&lt;/li>
+&lt;li>&lt;input checked="" disabled="" type="checkbox"> Visit Bungendore - day trip w/ B&amp;amp;W&lt;/li>
+&lt;li>&lt;input checked="" disabled="" type="checkbox"> Visit Lake George w/ B&amp;amp;W&lt;/li>
+&lt;li>&lt;input checked="" disabled="" type="checkbox"> New Year’s Eve 2024 firework w/ B&amp;amp;BB&lt;/li>
+&lt;li>&lt;input checked="" disabled="" type="checkbox"> &lt;a href="https://floriadeaustralia.com">Floriade&lt;/a> w/ B&lt;/li>
+&lt;li>&lt;input checked="" disabled="" type="checkbox"> &lt;a href="https://canberraballoonspectacular.com">Balloon Festival&lt;/a> w/ B&lt;/li>
+&lt;li>&lt;input checked="" disabled="" type="checkbox"> &lt;a href="https://multiculturalfestival.com.au">National Multicultural Festival&lt;/a> w/ B&lt;/li>
+&lt;li>&lt;input checked="" disabled="" type="checkbox"> Christmas Picnic at &lt;a href="https://www.parks.act.gov.au/find-a-nature-park/murrumbidgee-river-corridor/uriarra-crossing">Uriarra East&lt;/a> w/ B, W&amp;amp;BB&lt;/li>
 &lt;/ul></description></item><item><title>Rodney's Nursery &amp; Garden Center</title><link>https://huatuostudio.github.io/posts/20240719rodneys/</link><pubDate>Fri, 19 Jul 2024 00:00:00 +0000</pubDate><guid>https://huatuostudio.github.io/posts/20240719rodneys/</guid><description>&lt;p>If you are a Canberran and you enjoy gardening and growing vegetables, you should know about Rodney&amp;rsquo;s nursery and his café. Ever since my mother moved to Canberra in March this year, I have been wanting to take her here for a meal. It has been raining for the past few weeks, and today it finally cleared up. The three of us wander here for lunch.&lt;/p>
-&lt;p>The garden café was already quite busy at around 11:00 on a Sunday morning. Although it was a cold winter morning, the sun was out, and sitting by the outdoor electric heater, it didn&amp;rsquo;t feel cold at all.&lt;/p></description></item><item><title>Bed</title><link>https://huatuostudio.github.io/posts/20230310bed/</link><pubDate>Fri, 10 Mar 2023 00:00:00 +0000</pubDate><guid>https://huatuostudio.github.io/posts/20230310bed/</guid><description>&lt;p>&lt;img alt="Billie and bed" loading="lazy" src="https://github.com/huatuostudio/HTSWebRes/blob/main/img/20230310.jpeg?raw=true">&lt;/p>
+&lt;p>The garden café was already quite busy at around 11:00 on a Sunday morning. Although it was a cold winter morning, the sun was out, and sitting by the outdoor electric heater, it didn&amp;rsquo;t feel cold at all.&lt;/p></description></item><item><title>2023 Trips and Events</title><link>https://huatuostudio.github.io/posts/20231231tripsevents/</link><pubDate>Sun, 31 Dec 2023 10:38:14 +1000</pubDate><guid>https://huatuostudio.github.io/posts/20231231tripsevents/</guid><description>&lt;p>A summary of trips taken and events that we have attended during 2023, for memory keeping.&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;input checked="" disabled="" type="checkbox"> 20230520 - Sydney Manly w/ B&amp;amp;GM&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;input checked="" disabled="" type="checkbox"> 20230924-25 - Malua Bay w/ B&amp;amp;W&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://www.travelnuity.com/dog-friendly-batemans-bay/">https://www.travelnuity.com/dog-friendly-batemans-bay/&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.esc.nsw.gov.au/residents/pets/dog-friendly-beaches-and-areas">https://www.esc.nsw.gov.au/residents/pets/dog-friendly-beaches-and-areas&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul></description></item><item><title>Bed</title><link>https://huatuostudio.github.io/posts/20230310bed/</link><pubDate>Fri, 10 Mar 2023 00:00:00 +0000</pubDate><guid>https://huatuostudio.github.io/posts/20230310bed/</guid><description>&lt;p>&lt;img alt="Billie and bed" loading="lazy" src="https://github.com/huatuostudio/HTSWebRes/blob/main/img/20230310.jpeg?raw=true">&lt;/p>
 &lt;p>&lt;img alt="Billie and bed" loading="lazy" src="https://github.com/huatuostudio/HTSWebRes/blob/main/img/20230310a.jpeg?raw=true">&lt;/p>
 &lt;p>If there is a bed and you know it, point your paw&lt;/p>
 &lt;p>If there is a bed and you know it, point your paw&lt;/p>
@@ -81,7 +100,7 @@
 &lt;p>&lt;input disabled="" type="checkbox"> Take a trip into the wilderness on an African safari&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>&lt;input checked="" disabled="" type="checkbox"> Ascend the arch of Sydney Harbour Bridge &lt;a href="https://www.huatuostudio.com/20130406harbourbridge/">My story here&lt;/a>&lt;/p></description></item><item><title>La Petite France</title><link>https://huatuostudio.github.io/posts/20180513lapetitefrance/</link><pubDate>Tue, 15 May 2018 00:00:00 +0000</pubDate><guid>https://huatuostudio.github.io/posts/20180513lapetitefrance/</guid><description>&lt;p>I&amp;rsquo;m joining a 10 days La Petite France trip with &lt;a href="https://www.albatrosstours.com.au/la-petite-france">Albatross Tours&lt;/a>. So excited!!! 😻😻😻&lt;/p>
+&lt;p>&lt;input checked="" disabled="" type="checkbox"> Ascend the arch of Sydney Harbour Bridge - &lt;a href="https://www.huatuostudio.com/20130406harbourbridge/">read my story here&lt;/a>&lt;/p></description></item><item><title>La Petite France</title><link>https://huatuostudio.github.io/posts/20180513lapetitefrance/</link><pubDate>Tue, 15 May 2018 00:00:00 +0000</pubDate><guid>https://huatuostudio.github.io/posts/20180513lapetitefrance/</guid><description>&lt;p>I&amp;rsquo;m joining a 10 days La Petite France trip with &lt;a href="https://www.albatrosstours.com.au/la-petite-france">Albatross Tours&lt;/a>. So excited!!! 😻😻😻&lt;/p>
 &lt;h2 id="tour-overview">Tour Overview&lt;/h2>
 &lt;p>Sleep in a picturesque château in the Loire Valley, walk amongst the flowers of Monet’s Gardens and Château Villandry and dine on exquisite seafood in the ‘pirate town’ of St Malo. Stand on the Normandy beaches, visit magnificent Mont-Saint-Michel and sip Benedictine in a palace! C’est magnifique…&lt;/p>
 &lt;p>&lt;img alt="Tour Map" loading="lazy" src="https://lh3.googleusercontent.com/pw/AL9nZEXDf69xLEqPzHIQDidCec6pgZnLPzhvKbrcMGGDZoiD4WlKWYehJJSnwLDmn7AFVoWdNDwzd8ClgeMH00gb1W0vvcsXovemf_ocfI4GuiWwuceChF7OaDrgRSKFkmXbLYF8mo-_99KSsyQpQxXtB3AI=w650-h800-no?authuser=0" title="Tour Map">&lt;/p>
