@@ -70,6 +70,6 @@ tags: ["checklist"]
   * Recognized as the world’s most beautiful lagoon, Aitutaki in the Cook Islands will exceed your expectations. Stunning shades of aquamarine in the calm, tranquil waters make this the place to swim with the fishes and other marine life. It’s also a great spot for watersports and glass bottom boat cruises. As the only resort facing directly onto the gorgeous lagoon, Aitutaki Lagoon Resort & Spa has made the most of its prime location with eight overwater bungalows. Decorated with authentic South Pacific textiles and artworks, the bungalows represent boutique luxury in an unforgettable location.
 
 **Notes**:
-  * Travel inspiration http://viewer.zmags.com/publication/887d966e
-  * Travel Italy 🇮🇹 https://www.travelassociates.com/luxury-holidays-news/the-best-way-to-tour-italy-small-group-tours
-  * Solo traveler https://www.travelassociates.com/luxury-holidays-news/tips-travelling-solo
+  * [Travel inspiration](http://viewer.zmags.com/publication/887d966e)
+  * [Travel Italy 🇮🇹 ](https://www.travelassociates.com/luxury-holidays-news/the-best-way-to-tour-italy-small-group-tours)
+  * [Solo traveler](https://www.travelassociates.com/luxury-holidays-news/tips-travelling-solo)

@@ -7,7 +7,7 @@ tags: ["Sydney", "short trip"]
 ---
 # Sydney Bridge Climb - the experience
 
-![Sydney Bridge Climb Trip](https://lh3.googleusercontent.com/dTPV7bDRQYFLLHGqiCMyWyAZsqE2s6ofuvuRC1Fh7AW1eaFEDzXhoxhXsUULeu0Y8tDGNqloriQQ66DIZsdg-Dp7SLuQP85aJw-EIXsOaZ0-ZKCqV9pDkBq7wpXWmu_phTWbT7cGVEqpnmSN0fws6MHT69LgceRva2Zxev9ioVxyXFFw0NpereJLOuAFCh9OwJncNjbhuZ5mb9EK3QJdxYxvV3fi57An7w7ItiLMN7mofRjQW8jALHHeVauFDr1Xpu8CCNN0cGE4UJOYujKmyDGLk99WPIFruEozUevAp2NGOSvHESN81AmGYuXScptYC_MXuBf5PRyCZyy1C7_Cu6qaPM7rN2oG7UInNE4IpNgP_UBn9WsUVJNkpWeld1HuPaEjVeOshsuP3eQROItAs3uwq9SfzF6JIujSIs99alH8lDzlaTc0LTHXRSuqXHnrHYILdbNBKT1UTraOmzVH7bofQyu04C3MUZVpmleQf--sO2bBHiW-5oJBTLyjgYkv2CCW5HVM4nCDGGPRz1Bkm1F_VWygksy1URAwhjmF_4m6MC8wCNfk5vQUyq_zHUwo1KB8sWSj5p644QC9csuw8wRLfjsIIZ02Cehg3ySQ373XggV_hUA79lHPFAXDvTOKWLawjr4cta4VjCp76xouX4EmE7bOPBiE=w434-h423-no)
+![Sydney Bridge Climb Trip](https://substackcdn.com/image/fetch/$s_!TGJX!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5ae67adc-7a93-4dc9-8e38-eb25e8dff78a_434x423.heic)
 
 John has bought me a ticket for a full 3 hours of [Sydney Harbour Bridge Climb](http://www.bridgeclimb.com/) for my birthday this year (thank you John!! 💕 ). I have to say that I have always thought the bridge climb is an overpriced tourist thing. Why would I ever do that if I live here?! :) Nevertheless, I was excited to wake up at 3am to get ready for the [bridge climb](http://www.bridgeclimb.com/).
 
@@ -17,7 +17,7 @@ A bigger group would waste a lot of time on waiting for slow walker etc., becaus
 
 The view on top of the bridge was amazing! I was in love with it. We could see the rain on the left hand side of the sky yet on the other side, the sun rose behind the clouds. I was very impressed! It was so beautiful! It was so worth the money! I'm going to tell everyone to do this! No wonder so many people have marriage proposals here! 😂  
 
-![the view from the top!](https://lh3.googleusercontent.com/pw/AL9nZEXdeYT8m-b4xJ2gOlevXJb7sWnmLMIHkVICmW7MrYor6vjCU67TZcw-kjpAuZj3qLgvu-2QtFPb39qC591q_MfR8vXuRbLLXZlHHEFRJCka2s3JHKGn2JdawyV7UDf9vtVQ7Sdwjpmk2Fe7tdu9ELvj=w888-h666-no?authuser=0 "the view from the top!")
+![the view from the top!](https://substackcdn.com/image/fetch/$s_!t-h-!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2bfaf02b-3ac7-4647-a26a-9dea02763349_888x666.heic "the view from the top!")
 
 It was very windy on the top of the bridge. I really understood why everything has to be chained to the hand rail. We were given “survival packs” to be chained on ourselves. I was so glad to find a jumper in it because it was freezing too. 
 
@@ -26,9 +26,9 @@ There were plenty time on top of the bridge for photos, stories, history talk an
 Three of us (Steve & Sam), we have had such a good time that I was totally shocked that the whole climb took more than 2 hours! It was time for pancakes and coffee!
 
 
-![Breakfast](https://lh3.googleusercontent.com/pw/AL9nZEXvVZfJ52OgG5F-xswZ0YBfsrNRIGc1whtcwmKE7ghKjV3UEuQXbehrsv6m4CmWqyOlBPF57bNLnLLluxdCMOz8uMYYuwlRgkQifHEHjjG2Oph5MS-Ul6iC_RF-oRjHL9L4h2UKFerk2Vi9dbvR-oDg=w620-h658-no?authuser=0 "Breakfast")
+![Breakfast](https://substackcdn.com/image/fetch/$s_!HiUZ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6f23b1aa-6c37-4019-a199-dd789702118a_620x658.heic "Breakfast")
 
-![Dinner](https://lh3.googleusercontent.com/pw/AL9nZEX-LNCfAJGpTaeDXC6zV8z_2cp2oRn_zD80y8F_RMdn3JThYyVFIhPV-hnCOqdWTjfbPDXRaICq3edNTNLJoXdy-eQfBoTZsURSwj8FawtfT35LWYOss3E6NEXTWeEoOX6V5DS0SXjII1CRh7vt6SZj=w620-h521-no?authuser=0 "Dinner")
+![Dinner](https://substackcdn.com/image/fetch/$s_!0KpN!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffb8b0303-ace9-4f5a-a41c-448ca50183b0_620x521.heic "Dinner")
 
 # The Verdict
 
