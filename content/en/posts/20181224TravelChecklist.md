@@ -49,18 +49,31 @@ Provider:
 
 Policy number:
 
+Consider:
+
+- International Travel Insurance
+- Purchase Protection Insurance
+- Extended Warranty Insurance
+- Guaranteed Pricing Scheme
+- Transit Accident Insurance
+
 # Emergency contacts
 Carry the following information with you when travel:
 
-<pre>The Australian Government provides 24 hour consular assistance
-Overseas: +61 2 62613305
-From within Australia: 1300 555 135
-Via SMS: +61 421 269 080
+<pre>The Australian Government provides 24 hour consular assistance to Australian citizens overseas through its Consular Emergency Centre. 
+- Within Australia: 1300 555 135
+- From overseas: +61 2 6261 3305
 
-Australian passport information service
-Overseas: +61 2 6261 3305
-From within Australia: 131 232
-Website: https://passport.gov.au </pre>
+The Consular Emergency Centre provides assistance in situations such as: 
+- Serious illness or injury
+- Arrest or detention
+- Death of an Australian citizen
+- Crises overseas
+- Lost or stolen passports
+- Welfare and other serious matters
+
+The Australian Government also provides consular services through its embassies, high commissions, and consulates around the world. For non-emergency consular inquiries, you can contact the relevant embassy or consulate during business hours, or submit an online inquiry. 
+ </pre>
 
 # Travel agent information
 
@@ -75,3 +88,13 @@ Finally,
 - Arrange mail to be collected
 - Organise someone to water plants and collect the garbage bins
 - Turned off unused electricity power plugged
+
+---
+
+# Lessons learnt
+Lessons learnt so far from my travels:
+
+- Always bring some local cash for airport and taxi because some places charges cash!
+- Book tour on location will waste at least one day, prebook is the best
+- Travel document backup: photocopy or scan them and tell someone where it is, so they can help if you lost yours. I keep an electronic copy in the cloud these days.
+- Visa International Assistance: 1 866 795 9644. (Freecall in the USA) Outside the USA, contact the telephone operator to make a reverse charge call to 1 433 641 2004. Just in case. Or, knows how to contact own back from overseas.
