@@ -4,6 +4,8 @@ date: 2018-12-24
 author: "@huatuostudio"
 categories: ["Travel Australia"]
 tags: ["checklist"]
+showtoc: true
+tocopen: true
 ShowWordCount: true
 ---
 
@@ -89,8 +91,6 @@ Finally,
 - Organise someone to water plants and collect the garbage bins
 - Turned off unused electricity power plugged
 
----
-
 # Lessons learnt
 Lessons learnt so far from my travels:
 
@@ -98,3 +98,6 @@ Lessons learnt so far from my travels:
 - Book tour on location will waste at least one day, prebook is the best
 - Travel document backup: photocopy or scan them and tell someone where it is, so they can help if you lost yours. I keep an electronic copy in the cloud these days.
 - Visa International Assistance: 1 866 795 9644. (Freecall in the USA) Outside the USA, contact the telephone operator to make a reverse charge call to 1 433 641 2004. Just in case. Or, knows how to contact own back from overseas.
+
+# References
+- [40 Travel Must Haves According To Flight Centre Experts](https://www.flightcentre.com.au/window-seat/40-best-travel-must-haves-according-flight-centre-travel-experts)
