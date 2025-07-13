@@ -5,10 +5,12 @@ author: "@huatuostudio"
 categories: ["Travel Australia"]
 tags: ["Sydney", "short trip"]
 ShowWordCount: true
+showtoc: true
+tocopen: true
 ---
 # Sydney Bridge Climb - the experience
 
-![Sydney Bridge Climb Trip](https://substackcdn.com/image/fetch/$s_!TGJX!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5ae67adc-7a93-4dc9-8e38-eb25e8dff78a_434x423.heic)
+![Sydney Bridge Climb Trip](https://substackcdn.com/image/fetch/$s_!TGJX!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5ae67adc-7a93-4dc9-8e38-eb25e8dff78a_434x423.heic#center)
 
 John has bought me a ticket for a full 3 hours of [Sydney Harbour Bridge Climb](http://www.bridgeclimb.com/) for my birthday this year (thank you John!! 💕 ). I have to say that I have always thought the bridge climb is an overpriced tourist thing. Why would I ever do that if I live here?! :) Nevertheless, I was excited to wake up at 3am to get ready for the [bridge climb](http://www.bridgeclimb.com/).
 
@@ -27,9 +29,9 @@ There were plenty time on top of the bridge for photos, stories, history talk an
 Three of us (Steve & Sam), we have had such a good time that I was totally shocked that the whole climb took more than 2 hours! It was time for pancakes and coffee!
 
 
-![Breakfast](https://substackcdn.com/image/fetch/$s_!HiUZ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6f23b1aa-6c37-4019-a199-dd789702118a_620x658.heic "Breakfast")
+![Breakfast](https://substackcdn.com/image/fetch/$s_!HiUZ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6f23b1aa-6c37-4019-a199-dd789702118a_620x658.heic#center "Breakfast")
 
-![Dinner](https://substackcdn.com/image/fetch/$s_!0KpN!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffb8b0303-ace9-4f5a-a41c-448ca50183b0_620x521.heic "Dinner")
+![Dinner](https://substackcdn.com/image/fetch/$s_!0KpN!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffb8b0303-ace9-4f5a-a41c-448ca50183b0_620x521.heic#center "Dinner")
 
 # The Verdict
 

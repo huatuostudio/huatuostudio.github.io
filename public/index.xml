@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Hua Tuo Studio</title>
-    <link>http://localhost:65224/</link>
+    <link>http://localhost:65252/</link>
     <description>Recent content on Hua Tuo Studio</description>
     <generator>Hugo -- 0.147.8</generator>
     <language>en</language>
     <copyright>Hua Tuo Studio 2025</copyright>
     <lastBuildDate>Sun, 15 Jun 2025 12:20:26 +1000</lastBuildDate>
-    <atom:link href="http://localhost:65224/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:65252/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Website Tools</title>
-      <link>http://localhost:65224/posts/20250615tools/</link>
+      <link>http://localhost:65252/posts/20250615tools/</link>
       <pubDate>Sun, 15 Jun 2025 12:20:26 +1000</pubDate>
-      <guid>http://localhost:65224/posts/20250615tools/</guid>
+      <guid>http://localhost:65252/posts/20250615tools/</guid>
       <description>&lt;p&gt;Here is a list of useful website building/maintenance tools that I&amp;rsquo;m using:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
@@ -34,16 +34,16 @@
     </item>
     <item>
       <title>Website rebuild</title>
-      <link>http://localhost:65224/posts/20250610newlook/</link>
+      <link>http://localhost:65252/posts/20250610newlook/</link>
       <pubDate>Wed, 11 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:65224/posts/20250610newlook/</guid>
+      <guid>http://localhost:65252/posts/20250610newlook/</guid>
       <description>Tools and tips from @huatuostudio while building this Hugo Website.</description>
     </item>
     <item>
       <title>2025 Trips and Events</title>
-      <link>http://localhost:65224/posts/20251231tripsevents/</link>
+      <link>http://localhost:65252/posts/20251231tripsevents/</link>
       <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:65224/posts/20251231tripsevents/</guid>
+      <guid>http://localhost:65252/posts/20251231tripsevents/</guid>
       <description>&lt;p&gt;A summary of weekend trips taken and events that we have attended during 2025, for memory keeping.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; January: Bangalee &amp;amp; Shoalhaven Heads 3 days w/ B&amp;amp;W&lt;/li&gt;
@@ -55,17 +55,17 @@
     </item>
     <item>
       <title>Worthy a Celebration</title>
-      <link>http://localhost:65224/posts/20250422worthycelebration/</link>
+      <link>http://localhost:65252/posts/20250422worthycelebration/</link>
       <pubDate>Tue, 22 Apr 2025 12:15:35 +1000</pubDate>
-      <guid>http://localhost:65224/posts/20250422worthycelebration/</guid>
+      <guid>http://localhost:65252/posts/20250422worthycelebration/</guid>
       <description>&lt;p&gt;My neighbours are in their 90s. Today, they have celebrated their 69th wedding anniversary in the garden with their friends, including another couple who were celebrating their 64 years of marriage! The party started at lunch time and they were still there at 5pm 😺&lt;/p&gt;
 &lt;p&gt;Such an amazing milestone! Long marriages - I wonder if it’s going to be a thing belongs to the past generation only. Most of my friends got married later in life and many marriages did not last long. There seem to be a different kind of expiration date on marriages these days. Not sure if that’s sad or just the way things are now.&lt;/p&gt;</description>
     </item>
     <item>
       <title>2024 Trips and Events</title>
-      <link>http://localhost:65224/posts/20241231tripsevents/</link>
+      <link>http://localhost:65252/posts/20241231tripsevents/</link>
       <pubDate>Tue, 31 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:65224/posts/20241231tripsevents/</guid>
+      <guid>http://localhost:65252/posts/20241231tripsevents/</guid>
       <description>&lt;p&gt;A summary of trips taken and events that we have attended during 2024, for memory keeping.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Visit Goulburn - day trip w/ B&amp;amp;W&lt;/li&gt;
@@ -80,17 +80,17 @@
     </item>
     <item>
       <title>Rodney&#39;s Nursery &amp; Garden Center</title>
-      <link>http://localhost:65224/posts/20240719rodneys/</link>
+      <link>http://localhost:65252/posts/20240719rodneys/</link>
       <pubDate>Fri, 19 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:65224/posts/20240719rodneys/</guid>
+      <guid>http://localhost:65252/posts/20240719rodneys/</guid>
       <description>&lt;p&gt;If you are a Canberran and you enjoy gardening and growing vegetables, you should know about Rodney&amp;rsquo;s nursery and his café. Ever since my mother moved to Canberra in March this year, I have been wanting to take her here for a meal. It has been raining for the past few weeks, and today it finally cleared up. The three of us wander here for lunch.&lt;/p&gt;
 &lt;p&gt;The garden café was already quite busy at around 11:00 on a Sunday morning. Although it was a cold winter morning, the sun was out, and sitting by the outdoor electric heater, it didn&amp;rsquo;t feel cold at all.&lt;/p&gt;</description>
     </item>
     <item>
       <title>2023 Trips and Events</title>
-      <link>http://localhost:65224/posts/20231231tripsevents/</link>
+      <link>http://localhost:65252/posts/20231231tripsevents/</link>
       <pubDate>Sun, 31 Dec 2023 10:38:14 +1000</pubDate>
-      <guid>http://localhost:65224/posts/20231231tripsevents/</guid>
+      <guid>http://localhost:65252/posts/20231231tripsevents/</guid>
       <description>&lt;p&gt;A summary of trips taken and events that we have attended during 2023, for memory keeping.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
@@ -111,9 +111,9 @@
     </item>
     <item>
       <title>Bed</title>
-      <link>http://localhost:65224/posts/20230310bed/</link>
+      <link>http://localhost:65252/posts/20230310bed/</link>
       <pubDate>Fri, 10 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:65224/posts/20230310bed/</guid>
+      <guid>http://localhost:65252/posts/20230310bed/</guid>
       <description>&lt;p&gt;&lt;img alt=&#34;Billie and bed&#34; loading=&#34;lazy&#34; src=&#34;https://github.com/huatuostudio/HTSWebRes/blob/main/img/20230310.jpeg?raw=true&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img alt=&#34;Billie and bed&#34; loading=&#34;lazy&#34; src=&#34;https://github.com/huatuostudio/HTSWebRes/blob/main/img/20230310a.jpeg?raw=true&#34;&gt;&lt;/p&gt;
 &lt;p&gt;If there is a bed and you know it, point your paw&lt;/p&gt;
@@ -128,9 +128,9 @@
     </item>
     <item>
       <title>About Hua Tuo Studio</title>
-      <link>http://localhost:65224/about/</link>
+      <link>http://localhost:65252/about/</link>
       <pubDate>Fri, 21 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:65224/about/</guid>
+      <guid>http://localhost:65252/about/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m using this space as my travel diary. Thank you for dropping by! 💕&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Places I have been so far&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img alt=&#34;Places I have been so far&#34; loading=&#34;lazy&#34; src=&#34;https://lh3.googleusercontent.com/pw/AL9nZEVMyJajI52amyotXRGt5oMznMI7uo-IvZKFFpVjVu6np7GXjOS-7vegcD3M9MutaTaOxxJT4P5h2m1-wcrxaXf6dxqXjSQWs0wg_zSGe8W24SZ61KNR91i7ZLNUOsKN_ump3ZG0IwEi_tYMwPjJ2wlY=w2166-h1194-no?authuser=0&#34; title=&#34;Places I have been so far&#34;&gt;&lt;/p&gt;
@@ -139,9 +139,9 @@
     </item>
     <item>
       <title>Travel Checklist</title>
-      <link>http://localhost:65224/posts/20181224travelchecklist/</link>
+      <link>http://localhost:65252/posts/20181224travelchecklist/</link>
       <pubDate>Mon, 24 Dec 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:65224/posts/20181224travelchecklist/</guid>
+      <guid>http://localhost:65252/posts/20181224travelchecklist/</guid>
       <description>&lt;p&gt;Life is simpler with a checklist. This is what I use before my travels:&lt;/p&gt;
 &lt;h1 id=&#34;travel-documents&#34;&gt;Travel Documents&lt;/h1&gt;
 &lt;ul&gt;
@@ -160,9 +160,9 @@
     </item>
     <item>
       <title>Travel Bucket List</title>
-      <link>http://localhost:65224/posts/20180629travelbucketlist/</link>
+      <link>http://localhost:65252/posts/20180629travelbucketlist/</link>
       <pubDate>Fri, 29 Jun 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:65224/posts/20180629travelbucketlist/</guid>
+      <guid>http://localhost:65252/posts/20180629travelbucketlist/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Soak in the Pamukkale thermal pools, Turkey&lt;/p&gt;
@@ -190,9 +190,9 @@
     </item>
     <item>
       <title>La Petite France</title>
-      <link>http://localhost:65224/posts/20180513lapetitefrance/</link>
+      <link>http://localhost:65252/posts/20180513lapetitefrance/</link>
       <pubDate>Tue, 15 May 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:65224/posts/20180513lapetitefrance/</guid>
+      <guid>http://localhost:65252/posts/20180513lapetitefrance/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m joining a 10 days La Petite France trip with &lt;a href=&#34;https://www.albatrosstours.com.au/la-petite-france&#34;&gt;Albatross Tours&lt;/a&gt;. So excited!!! 😻😻😻&lt;/p&gt;
 &lt;h2 id=&#34;tour-overview&#34;&gt;Tour Overview&lt;/h2&gt;
 &lt;p&gt;Sleep in a picturesque château in the Loire Valley, walk amongst the flowers of Monet’s Gardens and Château Villandry and dine on exquisite seafood in the ‘pirate town’ of St Malo. Stand on the Normandy beaches, visit magnificent Mont-Saint-Michel and sip Benedictine in a palace! C’est magnifique…&lt;/p&gt;
@@ -204,23 +204,23 @@
     </item>
     <item>
       <title>Canberra</title>
-      <link>http://localhost:65224/posts/20180309canberra/</link>
+      <link>http://localhost:65252/posts/20180309canberra/</link>
       <pubDate>Fri, 27 Apr 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:65224/posts/20180309canberra/</guid>
+      <guid>http://localhost:65252/posts/20180309canberra/</guid>
       <description></description>
     </item>
     <item>
       <title>Road Trip Eucumbene</title>
-      <link>http://localhost:65224/posts/20180427eucumbene/</link>
+      <link>http://localhost:65252/posts/20180427eucumbene/</link>
       <pubDate>Fri, 27 Apr 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:65224/posts/20180427eucumbene/</guid>
+      <guid>http://localhost:65252/posts/20180427eucumbene/</guid>
       <description></description>
     </item>
     <item>
       <title>European Gems Cruise with Travelmarvel</title>
-      <link>http://localhost:65224/posts/20170727eurorivercruise/</link>
+      <link>http://localhost:65252/posts/20170727eurorivercruise/</link>
       <pubDate>Thu, 27 Jul 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:65224/posts/20170727eurorivercruise/</guid>
+      <guid>http://localhost:65252/posts/20170727eurorivercruise/</guid>
       <description>&lt;p&gt;&lt;img alt=&#34;Map for the cruise&#34; loading=&#34;lazy&#34; src=&#34;https://lh3.googleusercontent.com/O-nl_YNgEE8fpk4jnYSGJSmWiegfFEF9XEIokO_FzUP420RQIDpfnkoytAcqp8ySmDe-GrlnBPgzQ4b3D9Ssmzu-CkEVy_4CYw_ZZPFX5mV327-liyofLX9dVEwYfpEtJNEWN1fCT2KLulbSyZLibM019mmaDUCp9dMNd-kx8UlYj4eXxAeHUaUva3s4lM0Lq1mIT0Bjue4fsZr6vyacyhLUlq9IkovpG7051HiHu1MWGO5Qpt_NzN0IaFyuGIwWFZG_2-oFr0kfZK50kYuDyHb7piViCtcXck97I9J6QACn-tpPtzo-l37gi19frhWf7-NwTgp1hh3uW4Vtbgeb2ngt455iI22weN5q467LagdV5l9XAM7akGozCDRDTtEBulAbfYAwSu9jxYE2skTIG8WFRsImbkf9pEyDyJZjSh98rvK2vKmIgvp2EMFp5k7-Cl6957EA6TwT7TOVhRvHQgWY7tMcsGI8FSVK6SJ3UopDYOQCC9sOlUcMrjq4zxJI6lvfJv5v4v3IAej6tRNaTZv_ciSp5iAbPJfpHtPGUNOwdqHJ44fqtfEybCSY6oVJ5XLzcTPSubAunMDRbSLnTKAxlf01A9woVTHZuUJ-IF71OuVkl-OmCEYxag_FUqbiNEKTKWlV5wOYiDES_eyfPRyRcI12IOsb=w1105-h609-no&#34; title=&#34;Map for the cruise&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img alt=&#34;Cruise itineray&#34; loading=&#34;lazy&#34; src=&#34;https://lh3.googleusercontent.com/YzmCf6AOPUgitGo47i9C6ijfF_DaxpDcv_Es_noE4wf_z--GEMSFcdlaD_GFyXopJZMtAQWAMlwplua2rxF6Z56jVMQ-tk_uO2-1Bp0ZZqWvnB5S_gkuDzRjsMB2kjK1tlhvr8MBHfvnwlSslzwhYZ4WqMqL39Q3ixqDDHSneZbEE3d8wuDM2K-1ms8eVVXUkQj4B1u7_Armv9X-pcPfk2xlXh3lFvrTvEf9rlLfTtOmyaRa8Q1Nza7Nc16iqIwRumYjPzh3-SZyU2sM91QptGJIk6pUeLPPXJaEBQ_TxcA_t-Ucrf8xiN1JQGar0yohEPaRp2NJDZKZtAJDX1VPgIv_hBv3FxHgrvkxJFtxYe7UBSTXdIMrxHkeCWy-6r3CY3qCEMoiH-vKyuk7vOfbzMC01ScfuGO5wZso2jd7BPESj3oamJ4RcSd-NyhBLMxN_vN1UD0MP6emMRHttZZF4oP88Phlaq_m39EWV0uq7pYie75TUPkWfxO43X0VPlJm6gHKFg8K6F3tuaZlz4dQtHc816UNzS3Ru8dky8N_WSFchR38178zMUiPZjby-gECsoFOFCDzZKPDrMh-f40EMrEZNikH1YbrBBkdhVEH8SgUpc6iwXpEfEutdSKbEzF_GjVl60YvVVf8qDnCRulu8OtRN-hwpBvY=w294-h720-no&#34; title=&#34;Cruise itineray&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Day 1&lt;/strong&gt;: Arrive in the enthralling city of Budapest, where your premium river ship awaits on the Danube River. Enjoy a Captain’s Welcome Reception and meet your fellow travellers and Cruise Director before a relaxing twilight cruise following dinner.&lt;/p&gt;
@@ -230,17 +230,17 @@
     </item>
     <item>
       <title>Memory of Mr Cheng</title>
-      <link>http://localhost:65224/posts/20160410teacher/</link>
+      <link>http://localhost:65252/posts/20160410teacher/</link>
       <pubDate>Sun, 10 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:65224/posts/20160410teacher/</guid>
+      <guid>http://localhost:65252/posts/20160410teacher/</guid>
       <description>&lt;h2 id=&#34;-1-&#34;&gt;– 1 –&lt;/h2&gt;
 &lt;p&gt;When we were in the fifth and sixth grades, Mr Cheng&amp;rsquo;s geography classes were captivating and lively. He often veered off-topic, sharing interesting tidbits that kept us engaged. However, this meant the teaching plan frequently fell behind. The curriculum intended for the first semester of fifth grade had to be pushed to the second semester, continuing the cycle. By the second semester of sixth grade, there was no more room for postponements. What was the solution? Sunday make-up classes!&lt;/p&gt;</description>
     </item>
     <item>
       <title>Road Trip WA</title>
-      <link>http://localhost:65224/posts/20160323roadtripwa/</link>
+      <link>http://localhost:65252/posts/20160323roadtripwa/</link>
       <pubDate>Wed, 23 Mar 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:65224/posts/20160323roadtripwa/</guid>
+      <guid>http://localhost:65252/posts/20160323roadtripwa/</guid>
       <description>&lt;p&gt;24-25, March 2016, Easter. Another year and another Easter, time goes so fast. Three of us has decided to take a road trip to the Western Australia&amp;rsquo;s &lt;a href=&#34;http://www.southernforests.com.au&#34;&gt;Southern Forest Region&lt;/a&gt;. We all knew the region pretty well so the trip was roughly planned and the accommodation was booked a few days before the trip.&lt;/p&gt;
 &lt;h2 id=&#34;the-itinerary&#34;&gt;The Itinerary&lt;/h2&gt;
 &lt;p&gt;&lt;img alt=&#34;Itinerary Map&#34; loading=&#34;lazy&#34; src=&#34;https://lh3.googleusercontent.com/hH--bSMRKVwW5-xaF4uxMmZ5hfX7ngG2TpsrUnwLOvSl7r59g0Yx3RZ6qtbR4-tbDgcrYhltWxAyYzClargXCaLjZ9yG_bs6E6rhqOnl0wbIKjgpI-E2oUimpiBrijUm3WRQxSDNuzldCqSoCrUQWQ4N9Nk-Wtk09XH8wt5TwZ7xZ9E5fx4peaK5q59fo8KNzVo5bf-aidpF9Ur6x_h--ofZ_5bQFhXBIlVNtKb3BqnKWITKY7IoorYHOqqmTeBqOuNry4VlI93MCwQlntVisa5EVNeVTeJCLmYk06iC3LxTiMU2PpNYX66N-tHwwt0b9uAfwPwMp_XIjOSK00ZQZ_Gt1mxXrQHc7-Q3hgxNFXfBY2yiR6P4eV33NXFM6hyT_uUM8PZXQXN5wrVm8P4jfWsP6LfWhNFjBASMjRnD_07q8xce-19zP0OKvNHPGk9xsoaseUVISmcB4QYAdmBN29S3tQ24_URX_JAIGt0S4ynkJw0yHp98QkZlLzBn6fSXSON1Xfhd03PfvUwQDmaHkcrZj7RE5xrV1IqUwN-DlesLtG285C-SLM-qWzfd2lEDeGw_8sqxdbjJtU3KkgcWSx_c5_fEtGN_S2E4ETBMVRgp1_LI=w539-h689-no&#34; title=&#34;Itinerary Map&#34;&gt;&lt;/p&gt;
@@ -257,9 +257,9 @@
     </item>
     <item>
       <title>Taiwan Impression</title>
-      <link>http://localhost:65224/posts/20150405taiwan/</link>
+      <link>http://localhost:65252/posts/20150405taiwan/</link>
       <pubDate>Sun, 05 Apr 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:65224/posts/20150405taiwan/</guid>
+      <guid>http://localhost:65252/posts/20150405taiwan/</guid>
       <description>&lt;h2 id=&#34;sleepless-in-hong-kong&#34;&gt;Sleepless In Hong Kong&lt;/h2&gt;
 &lt;p&gt;&lt;img alt=&#34;Hong Kong - view from the hotel&#34; loading=&#34;lazy&#34; src=&#34;https://lh3.googleusercontent.com/pw/AL9nZEWzV3evshgVfSmvBGUQ1fcFmlUCOrPPI4YXdX7mrZxCwvIhX4Fy05g_g-ZK2Xive7sM4_F3f8Ek1fz8puQEtlZpeN3hNksndI8QIO-a1J9u9RO7j12AGHRDwTjYnP0B9PxVbueGZMkH3JNbvdeKnk7S=w2120-h1590-no?authuser=0&#34; title=&#34;Hong Kong - view from the hotel&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Chinese say that 4 is not a lucky number, clearly 04/04 is worse and it was totally true - I&amp;rsquo;ve had a terrible run today! 😢&lt;/p&gt;
@@ -270,17 +270,17 @@
     </item>
     <item>
       <title>RSPCA Pet Quiz Website</title>
-      <link>http://localhost:65224/posts/20140905petquiz/</link>
+      <link>http://localhost:65252/posts/20140905petquiz/</link>
       <pubDate>Fri, 05 Sep 2014 00:00:00 +0000</pubDate>
-      <guid>http://localhost:65224/posts/20140905petquiz/</guid>
+      <guid>http://localhost:65252/posts/20140905petquiz/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m giving myself a 🌟 for finishing a little volunteer project for &lt;a href=&#34;http://www.rspca.org.au/&#34; title=&#34;RSPCA Au&#34;&gt;RSPCA (AU)&lt;/a&gt; ACT. :-)&lt;/p&gt;
 &lt;p&gt;The idea is to create a website that contains a &lt;a href=&#34;http://rspcapetquiz.com&#34; title=&#34;RSPCA pet quiz&#34;&gt;Pet Quiz&lt;/a&gt; where people answer a few questions to find out what kind of pet is the best suitable for them. The logic for the website is pretty simple so I kept the design simple and clean too. The website is going to be used on &lt;a href=&#34;https://www.apple.com/au/ipad/&#34;&gt;iPads&lt;/a&gt; in &lt;a href=&#34;http://www.rspca.org.au/&#34;&gt;RSPCA&lt;/a&gt; ACT&amp;rsquo;s booth at this year&amp;rsquo;s &lt;a href=&#34;http://www.floriadeaustralia.com/&#34;&gt;Florida&lt;/a&gt; (URL: &lt;a href=&#34;http://rspcapetquiz.com&#34;&gt;http://rspcapetquiz.com&lt;/a&gt;).&lt;/p&gt;</description>
     </item>
     <item>
       <title>Road Trip and Walk Like a Londoner</title>
-      <link>http://localhost:65224/posts/20140618uk/</link>
+      <link>http://localhost:65252/posts/20140618uk/</link>
       <pubDate>Wed, 18 Jun 2014 00:00:00 +0000</pubDate>
-      <guid>http://localhost:65224/posts/20140618uk/</guid>
+      <guid>http://localhost:65252/posts/20140618uk/</guid>
       <description>&lt;p&gt;I took the train back to London. It was cold comparing with the barmy 22 degrees in Edinburgh a few hours ago. Nevertheless, I was so excited. Here I come, road trip to south England!&lt;/p&gt;
 &lt;h2 id=&#34;love-the-car&#34;&gt;Love The Car&lt;/h2&gt;
 &lt;p&gt;&lt;img alt=&#34;my rental car is a BMW-M135i&#34; loading=&#34;lazy&#34; src=&#34;http://www.zercustoms.com/news/images/BMW/BMW-M135i-5-door-4.jpg&#34; title=&#34;my rental car is a BMW-M135i&#34;&gt;&lt;/p&gt;
@@ -288,9 +288,9 @@
     </item>
     <item>
       <title>Scotland!</title>
-      <link>http://localhost:65224/posts/20140612scotland/</link>
+      <link>http://localhost:65252/posts/20140612scotland/</link>
       <pubDate>Thu, 12 Jun 2014 00:00:00 +0000</pubDate>
-      <guid>http://localhost:65224/posts/20140612scotland/</guid>
+      <guid>http://localhost:65252/posts/20140612scotland/</guid>
       <description>&lt;h2 id=&#34;edinburgh&#34;&gt;Edinburgh&lt;/h2&gt;
 &lt;p&gt;I love Edinburgh!&lt;/p&gt;
 &lt;p&gt;&lt;img alt=&#34;Edinburgh&#34; loading=&#34;lazy&#34; src=&#34;https://lh3.googleusercontent.com/pw/AL9nZEWvT7GRF6Tlu6khvf2iZa_o5_-M_4Vs21sdAXYhs4jt4BFCVJ9ld3Hi7UN5FfcKtpZc-fQuEnrWDN5cBYpjPl1H1f750DFjNX0yOO8vC-cUGrD-VHnnNVgVg-I51CFnFU6c3UWANdA7jL5GU4S2rwek=w800-h533-no?authuser=0&#34; title=&#34;Edinburgh&#34;&gt;&lt;/p&gt;
@@ -299,9 +299,9 @@
     </item>
     <item>
       <title>Wondering around London</title>
-      <link>http://localhost:65224/posts/20140609uk/</link>
+      <link>http://localhost:65252/posts/20140609uk/</link>
       <pubDate>Mon, 09 Jun 2014 00:00:00 +0000</pubDate>
-      <guid>http://localhost:65224/posts/20140609uk/</guid>
+      <guid>http://localhost:65252/posts/20140609uk/</guid>
       <description>&lt;p&gt;The flight was so long. I kept walking around, eat (funny that I still felt hungry even though I did nothing but sitting there), nap and watch movies:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
@@ -318,18 +318,18 @@
     </item>
     <item>
       <title>Going to UK</title>
-      <link>http://localhost:65224/posts/20140605uk/</link>
+      <link>http://localhost:65252/posts/20140605uk/</link>
       <pubDate>Thu, 05 Jun 2014 00:00:00 +0000</pubDate>
-      <guid>http://localhost:65224/posts/20140605uk/</guid>
+      <guid>http://localhost:65252/posts/20140605uk/</guid>
       <description>&lt;h2 id=&#34;overnight-in-sydney&#34;&gt;Overnight in Sydney&lt;/h2&gt;
 &lt;p&gt;&lt;img alt=&#34;Cubee Monkey&#34; loading=&#34;lazy&#34; src=&#34;https://lh3.googleusercontent.com/pw/AL9nZEXJKVUmsk8dFOtiMGaLn6DWfpwt7su3qLHNHmOLK6EjVbeOgsYxhY2Tc8-S5q1qkjaTBwo87v6p5EBmAoSZkPPakS4ig2S-9Ki_ubP311Zcq9ldRr328LXITDh9W4mVIYz1ol2cby7HGz6J7ATPTw53=w600-h800-no?authuser=0&#34; title=&#34;Cubee Monkey&#34;&gt;&lt;/p&gt;
 &lt;p&gt;I was still packing when Chris came to pick me up for the airport. :) I definitely started packing early this time but still, it became a last minute thing again. My Qantas flight was late as usual (One day, they will surprise me by being on time). The airport hotel Sydney for a night of transit is as boring as it can be. I don&amp;rsquo;t even get a phone in the room! Oh well, I really just need a place to sleep for a few hours.&lt;/p&gt;</description>
     </item>
     <item>
       <title>UK Trip Planning</title>
-      <link>http://localhost:65224/posts/20140522uk/</link>
+      <link>http://localhost:65252/posts/20140522uk/</link>
       <pubDate>Thu, 22 May 2014 00:00:00 +0000</pubDate>
-      <guid>http://localhost:65224/posts/20140522uk/</guid>
+      <guid>http://localhost:65252/posts/20140522uk/</guid>
       <description>&lt;h2 id=&#34;oyster-card&#34;&gt;Oyster Card&lt;/h2&gt;
 &lt;p&gt;&lt;img alt=&#34;My visitor&amp;rsquo;s Oyster Card&#34; loading=&#34;lazy&#34; src=&#34;https://lh3.googleusercontent.com/CoNLP-vSrR1tDerYDrSGAvzcif8xlA9pCi0vdIgc7ae6wfsluxLrz_I9dxsOSYuTNMkZioqp1cfVQmAO3XbQqozyRxjKXxXMtmMJXjvAew2L53Y2o7A74m1OIMpKGF9mAmZEXe_prdxGjJo8178uylJIt46qUHpONtsclnPqDOrRaGbyLUycpmZATXk-zfFVd3b9ltsXU5enrm90TRXA-cgMBgOheUmQNLU8vCuKSs2k9STanFWY-BU0xAk8cE4DC7dsgFV-XWZoOzNExt9I_ErCMr2Giu16aO7Z69vwaP4VvxAmTyqHDxqmAG-JKEOAvRsGvvH20wXCMl1J9F8rZqpSNR_s2WNdYM6kk46iejz52GKYweqJvPVkkq-lrWdooQAfJGhxb5od09CiOZ_5E2VryBBfsLKPjwloragLTSPuhtc6oVIYybSqlMvLmbEs1oA4AurCWGouVKftHe-xUZNhBMVE2nc-q4up33E5RZHt873LzABg37MygGLFcWWROigko5ILxRz5yTS2Q07as1ExeWymJ-hHTUCjs-IaM_3nkrx6Lo_6EJYyiOWSyWEvaBKb0UpZjYPPPmw6PHKiAfQF0pQvI8c-PD3Vg4pjiyCCASwa=w620-h418-no&#34; title=&#34;My visitor&amp;#39;s Oyster Card&#34;&gt;&lt;/p&gt;
 &lt;p&gt;My visitor&amp;rsquo;s &lt;a href=&#34;https://oyster.tfl.gov.uk/oyster/entry.do&#34;&gt;Oyster Card&lt;/a&gt; has arrived today! If you want to get an &lt;a href=&#34;https://oyster.tfl.gov.uk/oyster/entry.do&#34;&gt;Oyster Card&lt;/a&gt; before travelling to London, do a &lt;a href=&#34;http://www.google.com&#34;&gt;Google&lt;/a&gt; search to find an agent in your own country so you can purchase the card in your local currency. &lt;a href=&#34;https://www.tfl.gov.uk/fares-and-payments/oyster&#34;&gt;Transport for London&lt;/a&gt; has more information on the &lt;a href=&#34;https://oyster.tfl.gov.uk/oyster/entry.do&#34;&gt;Oyster Card&lt;/a&gt; and a list of agents around the world.&lt;/p&gt;
@@ -337,19 +337,19 @@
     </item>
     <item>
       <title>How To Make Japanese Pickled Ginger</title>
-      <link>http://localhost:65224/posts/20130430japanesepickledginger/</link>
+      <link>http://localhost:65252/posts/20130430japanesepickledginger/</link>
       <pubDate>Tue, 30 Apr 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:65224/posts/20130430japanesepickledginger/</guid>
+      <guid>http://localhost:65252/posts/20130430japanesepickledginger/</guid>
       <description>&lt;p&gt;It&amp;rsquo;s all over the net at the moment - ginger is the essential healthy power food! I don&amp;rsquo;t put a lot of ginger in my cooking but I love to eat Japanese pickled ginger from time to time. This is a recipe I&amp;rsquo;ve been using. The result was great, even mum gave it a thumbs up. Here is the VERY simple recipe on how to make Janpanese pickled ginger:&lt;/p&gt;
 &lt;p&gt;&lt;img alt=&#34;Japanese Pickled Ginger Recipe&#34; loading=&#34;lazy&#34; src=&#34;https://substackcdn.com/image/fetch/$s_!Qoc0!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F88dcc854-bc1a-42c4-b088-e3e7bb0a7b56_800x496.heic&#34; title=&#34;Japanese Pickled Ginger Recipe&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Sydney Harbour Bridge Climb</title>
-      <link>http://localhost:65224/posts/20130406harbourbridge/</link>
+      <link>http://localhost:65252/posts/20130406harbourbridge/</link>
       <pubDate>Sat, 06 Apr 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:65224/posts/20130406harbourbridge/</guid>
+      <guid>http://localhost:65252/posts/20130406harbourbridge/</guid>
       <description>&lt;h1 id=&#34;sydney-bridge-climb---the-experience&#34;&gt;Sydney Bridge Climb - the experience&lt;/h1&gt;
-&lt;p&gt;&lt;img alt=&#34;Sydney Bridge Climb Trip&#34; loading=&#34;lazy&#34; src=&#34;https://substackcdn.com/image/fetch/$s_!TGJX!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5ae67adc-7a93-4dc9-8e38-eb25e8dff78a_434x423.heic&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Sydney Bridge Climb Trip&#34; loading=&#34;lazy&#34; src=&#34;https://substackcdn.com/image/fetch/$s_!TGJX!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5ae67adc-7a93-4dc9-8e38-eb25e8dff78a_434x423.heic#center&#34;&gt;&lt;/p&gt;
 &lt;p&gt;John has bought me a ticket for a full 3 hours of &lt;a href=&#34;http://www.bridgeclimb.com/&#34;&gt;Sydney Harbour Bridge Climb&lt;/a&gt; for my birthday this year (thank you John!! 💕 ). I have to say that I have always thought the bridge climb is an overpriced tourist thing. Why would I ever do that if I live here?! :) Nevertheless, I was excited to wake up at 3am to get ready for the &lt;a href=&#34;http://www.bridgeclimb.com/&#34;&gt;bridge climb&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
   </channel>
