@@ -4,6 +4,7 @@ date: 2017-07-27
 author: "@huatuostudio"
 categories: ["Travel Europe"]
 tags: ["Travelmarvel", "Euro", "river cruise"]
+ShowWordCount: true
 ---
 
 ![Map for the cruise](https://lh3.googleusercontent.com/O-nl_YNgEE8fpk4jnYSGJSmWiegfFEF9XEIokO_FzUP420RQIDpfnkoytAcqp8ySmDe-GrlnBPgzQ4b3D9Ssmzu-CkEVy_4CYw_ZZPFX5mV327-liyofLX9dVEwYfpEtJNEWN1fCT2KLulbSyZLibM019mmaDUCp9dMNd-kx8UlYj4eXxAeHUaUva3s4lM0Lq1mIT0Bjue4fsZr6vyacyhLUlq9IkovpG7051HiHu1MWGO5Qpt_NzN0IaFyuGIwWFZG_2-oFr0kfZK50kYuDyHb7piViCtcXck97I9J6QACn-tpPtzo-l37gi19frhWf7-NwTgp1hh3uW4Vtbgeb2ngt455iI22weN5q467LagdV5l9XAM7akGozCDRDTtEBulAbfYAwSu9jxYE2skTIG8WFRsImbkf9pEyDyJZjSh98rvK2vKmIgvp2EMFp5k7-Cl6957EA6TwT7TOVhRvHQgWY7tMcsGI8FSVK6SJ3UopDYOQCC9sOlUcMrjq4zxJI6lvfJv5v4v3IAej6tRNaTZv_ciSp5iAbPJfpHtPGUNOwdqHJ44fqtfEybCSY6oVJ5XLzcTPSubAunMDRbSLnTKAxlf01A9woVTHZuUJ-IF71OuVkl-OmCEYxag_FUqbiNEKTKWlV5wOYiDES_eyfPRyRcI12IOsb=w1105-h609-no "Map for the cruise")

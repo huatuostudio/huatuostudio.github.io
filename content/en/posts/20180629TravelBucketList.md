@@ -4,6 +4,7 @@ date: 2018-06-29
 author: "@huatuostudio"
 categories: ["Travel Australia"]
 tags: ["checklist"]
+ShowWordCount: true
 ---
 
 - [ ] Soak in the Pamukkale thermal pools, Turkey

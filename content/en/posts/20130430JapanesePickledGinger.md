@@ -4,6 +4,7 @@ date: 2013-04-30
 author: "@huatuostudio"
 categories: ["Misc"]
 tags: ["foodie"]
+ShowWordCount: true
 ---
 
 It's all over the net at the moment - ginger is the essential healthy power food! I don't put a lot of ginger in my cooking but I love to eat Japanese pickled ginger from time to time. This is a recipe I've been using. The result was great, even mum gave it a thumbs up. Here is the VERY simple recipe on how to make Janpanese pickled ginger:

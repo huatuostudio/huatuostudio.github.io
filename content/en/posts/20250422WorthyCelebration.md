@@ -4,6 +4,7 @@ title: "Worthy a Celebration"
 author: "@huatuostudio"
 categories: [Reflections]
 tags: [People]
+ShowWordCount: true
 ---
 My neighbours are in their 90s. Today, they have celebrated their 69th wedding anniversary in the garden with their friends, including another couple who were celebrating their 64 years of marriage! The party started at lunch time and they were still there at 5pm 😺 
 

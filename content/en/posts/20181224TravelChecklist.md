@@ -4,6 +4,7 @@ date: 2018-12-24
 author: "@huatuostudio"
 categories: ["Travel Australia"]
 tags: ["checklist"]
+ShowWordCount: true
 ---
 
 Life is simpler with a checklist. This is what I use before my travels:

@@ -4,6 +4,7 @@ date: 2025-06-01
 author: "@huatuostudio"
 categories: ["Travel Australia"]
 tags: ["Road Trip", "Canberra", "Checklist", "Short Trip"]
+ShowWordCount: true
 ---
 
 A summary of weekend trips taken and events that we have attended during 2025, for memory keeping. 

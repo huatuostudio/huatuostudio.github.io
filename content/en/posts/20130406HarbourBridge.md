@@ -4,6 +4,7 @@ date: 2013-04-06
 author: "@huatuostudio"
 categories: ["Travel Australia"]
 tags: ["Sydney", "short trip"]
+ShowWordCount: true
 ---
 # Sydney Bridge Climb - the experience
 

@@ -3,6 +3,7 @@ title: "About Hua Tuo Studio"
 date: 2022-10-21
 author: "@huatuostudio"
 layout: "single"
+ShowWordCount: true
 ---
 
 I'm using this space as my travel diary. Thank you for dropping by! 💕

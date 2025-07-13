@@ -4,6 +4,7 @@ date: 2018-05-15
 author: "@huatuostudio"
 categories: ["Travel France"]
 tags: ["Albatross Tours"]
+ShowWordCount: true
 ---
 
 I'm joining a 10 days La Petite France trip with [Albatross Tours](https://www.albatrosstours.com.au/la-petite-france). So excited!!! 😻😻😻

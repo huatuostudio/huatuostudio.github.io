@@ -4,6 +4,7 @@ date: 2024-12-31
 author: "@huatuostudio"
 categories: ["Travel Australia"]
 tags: ["Road Trip", "Canberra", "Checklist", "Short Trip"]
+ShowWordCount: true
 ---
 
 A summary of trips taken and events that we have attended during 2024, for memory keeping. 
