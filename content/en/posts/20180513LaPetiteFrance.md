@@ -27,7 +27,7 @@ Sleep in a picturesque château in the Loire Valley, walk amongst the flowers of
 
 - Stay 2 nights in the ‘pirate town’ of St Malo
 
-- Explore the magnificent 11th century Mont-Saint-Michel (I always wanted to visit!!)</li>
+- Explore the magnificent 11th century Mont-Saint-Michel (I always wanted to visit!!)
 
 - Enjoy time relaxing in the ‘oyster village’ of Cancale
 
