@@ -62,20 +62,20 @@ Consider:
 # Emergency contacts
 Carry the following information with you when travel:
 
-<pre>The Australian Government provides 24 hour consular assistance to Australian citizens overseas through its Consular Emergency Centre. 
-- Within Australia: 1300 555 135
-- From overseas: +61 2 6261 3305
+>The Australian Government provides 24 hour consular assistance to Australian citizens overseas through its Consular Emergency Centre. 
+> - Within Australia: 1300 555 135
+> - From overseas: +61 2 6261 3305
 
-The Consular Emergency Centre provides assistance in situations such as: 
-- Serious illness or injury
-- Arrest or detention
-- Death of an Australian citizen
-- Crises overseas
-- Lost or stolen passports
-- Welfare and other serious matters
+> The Consular Emergency Centre provides assistance in situations such as: 
+> - Serious illness or injury
+> - Arrest or detention
+> - Death of an Australian citizen
+> - Crises overseas
+> - Lost or stolen passports
+> - Welfare and other serious matters
 
-The Australian Government also provides consular services through its embassies, high commissions, and consulates around the world. For non-emergency consular inquiries, you can contact the relevant embassy or consulate during business hours, or submit an online inquiry. 
- </pre>
+> The Australian Government also provides consular services through its embassies, high commissions, and consulates around the world. For non-emergency consular inquiries, you can contact the relevant embassy or consulate during business hours, or submit an online inquiry. 
+
 
 # Travel agent information
 

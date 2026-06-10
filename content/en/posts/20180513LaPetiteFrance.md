@@ -74,7 +74,7 @@ Travelling south we make our way to the verdant Loire Valley where, during the 1
 
 ### Day 7: Tours and ‘My Time’ at your Château
 
-After a leisurely start, we make our way to the city of Tours. As you would expect of a regional capital there is much to see, from the Cathedral Saint-Gatien and the adjacent cloisters of La Psalette, to the shopping, the vieille ville (old town) and Place Plumereau filled with al fresco cafés and bars. A great place to relax over lunchtime. Late afternoon, after time at leisure back at our château to relax &amp; freshen up, we enjoy an evening in nearby Langeais. The enormous château which dominates the beautiful village can still be visited, and this evening you will have the chance to discover your own intimate bistro for dinner.
+After a leisurely start, we make our way to the city of Tours. As you would expect of a regional capital there is much to see, from the Cathedral Saint-Gatien and the adjacent cloisters of La Psalette, to the shopping, the vieille ville (old town) and Place Plumereau filled with al fresco cafés and bars. A great place to relax over lunchtime. Late afternoon, after time at leisure back at our château to relax & freshen up, we enjoy an evening in nearby Langeais. The enormous château which dominates the beautiful village can still be visited, and this evening you will have the chance to discover your own intimate bistro for dinner.
 
 ### Day 8: Château Chenonceau and Château du Clos Lucé
 This morning we enjoy a visit to the magnificent Château Chenonceau, spanning the River Cher on a series of graceful arches. Possibly one of the most photographed of the Loire châteaux this was the former home of Diane de Poitiers and Catherine de Medici. Explore the stunning gardens and interior of the château. Later we stop to explore the charming riverside town of Amboise, on the banks of the River Loire, with its Royal Palace, where Leonardo da Vinci once lived as a guest of King Francois I. We have included a visit to da Vinci’s residence – Château du Clos Lucé. Here in the underground rooms you will see on display, forty machines designed by this amazing inventor. After freshening up back at our château your evening will be free in the old town of Tours around Place Plumereau, to discover your own provincial bistro for dinner.
@@ -84,7 +84,7 @@ Our first stop of the day will be to visit the Royal Abbey of Fontevraud. Built 
 
 ### Day 10: To Paris
 
-Going home and back to work! :(
+Going home and back to work! 
 
 
  
