@@ -2,8 +2,8 @@
 title: "A night at Enlighten"
 date: 2026-03-06
 author: "@huatuostudio"
-categories: ["Travel Australia"]
-tags: ["Canberra",]
+categories: ["Furbaby Diary", "Events"]
+tags: ["Canberra", "dog friendly"]
 ShowWordCount: true
 ---
 
