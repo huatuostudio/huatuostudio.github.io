@@ -1,5 +1,5 @@
 baseURL: https://huatuostudio.github.io
-languageCode: en-us
+locale: en-us
 title: Hua Tuo Studio
 copyright: "© Hua Tuo Studio 2025"
 theme: ["PaperMod"]
@@ -19,7 +19,7 @@ pagination:
 
 languages:
   en:
-    languageName: "English"
+    label: "English"
     contentDir: "content/en"
     weight: 1
     taxonomies:
@@ -44,7 +44,7 @@ languages:
           weight: 20
 
   zh-cn:
-    languageName: "简体中文"
+    label: "简体中文"
     contentDir: "content/zh-cn"
     weight: 2
     title: 华拓工作室
