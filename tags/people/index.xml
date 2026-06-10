@@ -1,19 +1,26 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>People on Hua Tuo Studio</title><link>https://huatuostudio.github.io/tags/people/</link><description>Recent content in People on Hua Tuo Studio</description><generator>Hugo -- 0.148.1</generator><language>en</language><copyright>Hua Tuo Studio 2025</copyright><lastBuildDate>Sun, 15 Jun 2025 12:20:26 +1000</lastBuildDate><atom:link href="https://huatuostudio.github.io/tags/people/index.xml" rel="self" type="application/rss+xml"/><item><title>Website Tools</title><link>https://huatuostudio.github.io/posts/20250615tools/</link><pubDate>Sun, 15 Jun 2025 12:20:26 +1000</pubDate><guid>https://huatuostudio.github.io/posts/20250615tools/</guid><description>&lt;p>Here is a list of useful website building/maintenance tools that I&amp;rsquo;m using:&lt;/p>
-&lt;ul>
-&lt;li>
-&lt;p>All posts on this site use Markdown. So here is the always useful &lt;a href="https://www.markdownguide.org/cheat-sheet/">Markdown Cheatsheet&lt;/a>.&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>Embed YouTube Video with Markdown with a preview image&lt;/p>
-&lt;p>&lt;a href="https://gist.github.com/bitsurgeon/acd769ae3236c48a433e0acb11784c2e">Details on this Github repo&lt;/a>&lt;/p>
-&lt;p>e.g.&lt;/p>
-&lt;p>&lt;a href="https://youtu.be/0VxtlFkuDMs?si=tfDuvuYZt-WvZMbn">&lt;img alt="watch the video" loading="lazy" src="https://img.youtube.com/vi/0VxtlFkuDMs/0.jpg">&lt;/a>&lt;/p>
-&lt;p>code used for above ^^:&lt;/p>
-&lt;p>&lt;code>[![watch the video](https://img.youtube.com/vi/0VxtlFkuDMs/0.jpg)](https://youtu.be/0VxtlFkuDMs?si=tfDuvuYZt-WvZMbn)&lt;/code>&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>how to create descriptions for SOE by &lt;a href="https://developers.google.com/search/docs/appearance/snippet#:~:text=and%20popular%20pages.-,Include%20relevant%20information%20about%20the%20content%20in%20the%20description,of%20publication%2C%20or%20byline%20information.">Google&lt;/a>&lt;/p>
-&lt;/li>
-&lt;/ul></description></item><item><title>Worthy a Celebration</title><link>https://huatuostudio.github.io/posts/20250422worthycelebration/</link><pubDate>Tue, 22 Apr 2025 12:15:35 +1000</pubDate><guid>https://huatuostudio.github.io/posts/20250422worthycelebration/</guid><description>&lt;p>My neighbours are in their 90s. Today, they have celebrated their 69th wedding anniversary in the garden with their friends, including another couple who were celebrating their 64 years of marriage! The party started at lunch time and they were still there at 5pm 😺&lt;/p>
-&lt;p>Such an amazing milestone! Long marriages - I wonder if it’s going to be a thing belongs to the past generation only. Most of my friends got married later in life and many marriages did not last long. There seem to be a different kind of expiration date on marriages these days. Not sure if that’s sad or just the way things are now.&lt;/p></description></item><item><title>Memory of Mr Cheng</title><link>https://huatuostudio.github.io/posts/20160410teacher/</link><pubDate>Sun, 10 Apr 2016 00:00:00 +0000</pubDate><guid>https://huatuostudio.github.io/posts/20160410teacher/</guid><description>&lt;h2 id="-1-">– 1 –&lt;/h2>
-&lt;p>When we were in the fifth and sixth grades, Mr Cheng&amp;rsquo;s geography classes were captivating and lively. He often veered off-topic, sharing interesting tidbits that kept us engaged. However, this meant the teaching plan frequently fell behind. The curriculum intended for the first semester of fifth grade had to be pushed to the second semester, continuing the cycle. By the second semester of sixth grade, there was no more room for postponements. What was the solution? Sunday make-up classes!&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>People on Hua Tuo Studio</title><link>https://huatuostudio.github.io/tags/people/</link><description>Recent content in People on Hua Tuo Studio</description><generator>Hugo -- 0.163.0</generator><language>en-us</language><copyright>Hua Tuo Studio 2025</copyright><lastBuildDate>Sun, 15 Jun 2025 12:20:26 +1000</lastBuildDate><atom:link href="https://huatuostudio.github.io/tags/people/index.xml" rel="self" type="application/rss+xml"/><item><title>Website Tools</title><link>https://huatuostudio.github.io/posts/20250615tools/</link><pubDate>Sun, 15 Jun 2025 12:20:26 +1000</pubDate><guid>https://huatuostudio.github.io/posts/20250615tools/</guid><description>&lt;p&gt;Here is a list of useful website building/maintenance tools that I&amp;rsquo;m using:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;All posts on this site use Markdown. So here is the always useful &lt;a href="https://www.markdownguide.org/cheat-sheet/"&gt;Markdown Cheatsheet&lt;/a&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Embed YouTube Video with Markdown with a preview image&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://gist.github.com/bitsurgeon/acd769ae3236c48a433e0acb11784c2e"&gt;Details on this Github repo&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;e.g.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://youtu.be/0VxtlFkuDMs?si=tfDuvuYZt-WvZMbn"&gt;&lt;img alt="watch the video" loading="lazy" src="https://img.youtube.com/vi/0VxtlFkuDMs/0.jpg"&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;code used for above ^^:&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;[![watch the video](https://img.youtube.com/vi/0VxtlFkuDMs/0.jpg)](https://youtu.be/0VxtlFkuDMs?si=tfDuvuYZt-WvZMbn)&lt;/code&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;how to create descriptions for SOE by &lt;a href="https://developers.google.com/search/docs/appearance/snippet#:~:text=and%20popular%20pages.-,Include%20relevant%20information%20about%20the%20content%20in%20the%20description,of%20publication%2C%20or%20byline%20information."&gt;Google&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href="https://hugocodex.org/add-ons/"&gt;Add-ons&lt;/a&gt; for Hugo&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;a nice &lt;a href="https://m.youtube.com/watch?v=ZFL09qhKi5I"&gt;YouTube&lt;/a&gt; training course on Hugo&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;good info on Git submodules for your Hugo Themes - &lt;a href="https://devconnected.com/how-to-add-and-update-git-submodules/#Configuring_submodules_for_your_repository"&gt;How To Add and Update Git Submodules&lt;/a&gt;&lt;/p&gt;</description></item><item><title>Worthy a Celebration</title><link>https://huatuostudio.github.io/posts/20250422worthycelebration/</link><pubDate>Tue, 22 Apr 2025 12:15:35 +1000</pubDate><guid>https://huatuostudio.github.io/posts/20250422worthycelebration/</guid><description>&lt;p&gt;My neighbours are in their 90s. Today, they have celebrated their 69th wedding anniversary in the garden with their friends, including another couple who were celebrating their 64 years of marriage! The party started at lunch time and they were still there at 5pm 😺&lt;/p&gt;
+&lt;p&gt;Such an amazing milestone! Long marriages - I wonder if it’s going to be a thing belongs to the past generation only. Most of my friends got married later in life and many marriages did not last long. There seem to be a different kind of expiration date on marriages these days. Not sure if that’s sad or just the way things are now.&lt;/p&gt;</description></item><item><title>Memory of Mr Cheng</title><link>https://huatuostudio.github.io/posts/20160410teacher/</link><pubDate>Sun, 10 Apr 2016 00:00:00 +0000</pubDate><guid>https://huatuostudio.github.io/posts/20160410teacher/</guid><description>&lt;h2 id="-1-"&gt;– 1 –&lt;/h2&gt;
+&lt;p&gt;When we were in the fifth and sixth grades, Mr Cheng&amp;rsquo;s geography classes were captivating and lively. He often veered off-topic, sharing interesting tidbits that kept us engaged. However, this meant the teaching plan frequently fell behind. The curriculum intended for the first semester of fifth grade had to be pushed to the second semester, continuing the cycle. By the second semester of sixth grade, there was no more room for postponements. What was the solution? Sunday make-up classes!&lt;/p&gt;</description></item></channel></rss>
