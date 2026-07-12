@@ -17,3 +17,4 @@ A summary of trips taken and events that we have attended during 2024, for memor
 - [x] [Balloon Festival](https://canberraballoonspectacular.com) w/ B
 - [x] [National Multicultural Festival](https://multiculturalfestival.com.au) w/ B
 - [x] Christmas Picnic at [Uriarra East](https://www.parks.act.gov.au/find-a-nature-park/murrumbidgee-river-corridor/uriarra-crossing) w/ B, W&BB
+- [x] Dec: NYE fireworks w/ B

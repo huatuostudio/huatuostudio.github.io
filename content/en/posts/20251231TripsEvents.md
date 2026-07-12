@@ -21,3 +21,6 @@ A summary of weekend trips taken and events that we have attended during 2025, f
 - [x] [Little Burley Market](https://thelittleburleymarket.com.au) - a lovely place to walk with your dog and people. w/ B
 - [x] June: Malua Bay for the long weekend w/ B&W
 - [x] July: Sydney w/ JB
+- [x] [Young’s cherry festival](https://nationalcherryfestival.com.au) w/ T&B
+- [x] Dec: Sydney w/ T&B&Ming
+- [x] Dec: NYE fireworks w/ B&T
