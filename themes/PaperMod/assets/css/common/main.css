@@ -64,3 +64,7 @@ div.highlight:hover .copy-code,
 pre:hover .copy-code {
     display: block;
 }
+
+ul.task-list > li {
+    list-style-type: none; /* Removes the dot */
+}
