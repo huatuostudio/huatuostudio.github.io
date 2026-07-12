@@ -15,15 +15,15 @@ A summary of weekend trips taken and events that we have attended during 2026, f
 - [x] March: [National Multicultural Festival](https://multiculturalfestival.com.au) w/ B&T
 - [x] March: Canberra Balloon Spectacular w/ B&T
 - [x] March: Canberra Day fireworks - Sky Fire 3.14 8:30pm w/ B&T 
- - 7:55 pm: RAAF F-35A Lightning II flyover
+    - 7:55 pm: RAAF F-35A Lightning II flyover
 - [x] March: Enlighten Festival Canberra 2026 w/ B&T
 - [x] March: short trip to Sydney (work)
 - [x] March: [Blue Range](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.parks.act.gov.au/find-a-nature-park/murrumbidgee-river-corridor/blue-range-recreation-area&ved=2ahUKEwjW8eHkocyVAxXosVYBHV_nAVsQFnoECBYQAQ&usg=AOvVaw3yoa4Z4bp1PmTD0o2_y5ZY) Barry and Tom
 - [x] Haig Park Village Markets, Sunday 8:00am to 2:00pm. Dogs are welcome. Dog agility training park next to it. w/ B&W
 - [x] [Epic farmers market](https://thelittleburleymarket.com.au) - a lovely place to walk with your dog and people. w/ B&T
 - [x] Experience Breathing Space, an evocative sound installation created for the Garden of Australian Dreams at the National Museum of Australia. w/ B&T
-  - Composed by renowned musician Genevieve Lacey, Breathing Space pays homage to the deep time and ecological abundance of our continent, the ancient, vibrant cultures of First Nations Australians and the waves of migration that have shaped the land.
-  - Wander through the Garden and discover sounds and melodies that change subtly, hour by hour, day by day, season by season. Whenever and wherever you are in the Garden, you will hear something new.
+    - Composed by renowned musician Genevieve Lacey, Breathing Space pays homage to the deep time and ecological abundance of our continent, the ancient, vibrant cultures of First Nations Australians and the waves of migration that have shaped the land.
+    - Wander through the Garden and discover sounds and melodies that change subtly, hour by hour, day by day, season by season. Whenever and wherever you are in the Garden, you will hear something new.
 - [x] Saturday 2026-03-21 Harvest Day Out 2026 Lanyon Homestead, 10-3pm w/ Tom
 - [x] 2026-03-27-29 Japan StrEat Party w/ T&B Barry and Bron
 - [x] April: short trip to Sydney w/ Tom

@@ -11,5 +11,5 @@ A summary of trips taken and events that we have attended during 2023, for memor
 
 - [x] 20230520 - Sydney Manly w/ B&GM
 - [x] 20230924-25 - Malua Bay w/ B&W
-  - https://www.travelnuity.com/dog-friendly-batemans-bay/
-  - https://www.esc.nsw.gov.au/residents/pets/dog-friendly-beaches-and-areas
+    - https://www.travelnuity.com/dog-friendly-batemans-bay/
+    - https://www.esc.nsw.gov.au/residents/pets/dog-friendly-beaches-and-areas
