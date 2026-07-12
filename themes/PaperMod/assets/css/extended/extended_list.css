@@ -4,17 +4,20 @@ This is just a placeholder blank stylesheet so as to support adding custom style
 Read https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#bundling-custom-css-with-themes-assets for more info
 */
 /* The CSS didn't work because Hugo’s default Markdown renderer (Goldmark) wraps task lists using the generic <ul> tag without automatically appending a custom .task-list class in its standard setup.To force PaperMod to remove the dots on your specific page, we need to target the list items that contain checkboxes directly.
-/* Target only the list items that contain a direct checkbox child */
-.post-content ul li:has(> input[type="checkbox"]) {
+/* Strip bullets from any list that contains a task checkbox anywhere inside it */
+.post-content ul:has(input[type="checkbox"]) {
     list-style-type: none;
-    list-style-image: none;
+    padding-inline-start: 1rem;
 }
 
-/* Fix spacing and alignment for the isolated checkbox */
-.post-content ul li:has(> input[type="checkbox"]) > input[type="checkbox"] {
-    margin-right: 8px;
+/* Force standard bullet styling back onto any sub-lists that do NOT have a checkbox */
+.post-content ul:has(input[type="checkbox"]) ul:not(:has(input[type="checkbox"])) {
+    list-style-type: disc !important;
+    padding-inline-start: 2rem;
+}
+
+/* Ensure checkbox alignment looks proportional */
+.post-content input[type="checkbox"] {
+    margin-right: 6px;
     vertical-align: middle;
 }
-
-
-
