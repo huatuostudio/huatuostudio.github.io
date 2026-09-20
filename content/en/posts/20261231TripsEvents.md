@@ -9,7 +9,7 @@ ShowWordCount: true
 
 A summary of weekend trips taken and events that we have attended during 2026, for memory keeping. 
 
-- [x] Feb: Bateman's and Malua Bay 3 days w/ B&T
+- [x] Feb: Batemans and Malua Bay 3 days w/ B&T
 - [x] [Shepherd's Lookout](https://www.parks.act.gov.au/home/features/explore-shepherds-lookout) beautiful place! w/ B&T
 - [x] March: [National Multicultural Festival](https://multiculturalfestival.com.au) w/ B&T
 - [x] March: Canberra Balloon Spectacular w/ B&T
